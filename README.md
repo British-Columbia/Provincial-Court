@@ -24,3 +24,8 @@ Electronic court registry for the Provincial Court of British Columbia
 
 ### Submissions
 [Access submission terminals.](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Submissions.md)
+
+---
+
+### Miscellaneous 
+[Discord invite.](https://discord.gg/FmEEFEJWeC)
