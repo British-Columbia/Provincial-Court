@@ -5,11 +5,10 @@
 | ADJ	| Adjourn
 | APN	| Application
 | APN-ACP	| Application - Attorney-Client Privilege
-| APN-BAN DISCL	| Application - Ban on Disclosure
+| APN-AW	| Application - Arrest Warrant
 | APN-BAN PUB	| Application - Ban on Publication
-| APN-CO	| Application - Clarify Order
 | APN-E	| Application - Expungement
-| APN-EFA	| Application - Extension Time to File
+| APN-ETF	| Application - Extension Time to File
 | APN-SW	| Application - Search Warrant
 | APN-VP	| Application - Vexatious Proceedings
 | BW | Bench Warrant
@@ -28,11 +27,15 @@
 | GP & SNT	| Guilty Plea and Sentence
 | JCC	| Judicial Case Conference
 | JMC	| Judicial Management Conference
+| JMT | Judgement
 | JMT-CR	| Judgement - Criminal
 | JMT-CV	| Judgement - Civil
 | JMT-E	| Judgement - Expungement
 | LAR	| Legal Assistance Review
 | PTC	| Pre Trial Conference
+| PW-HABEAS CORP	| Prerogative Writ-Habeas Corpus
+| PW-MANDAMUS	| Prerogative Writ-Mandamus
+| PW-PROH	| Prerogative Writ-Prohibition
 | R-JMT | Review Judgement
 | R-SNT	| Review Sentence
 | RO	| Restraining Order
@@ -46,7 +49,3 @@
 | T-SUB	| Trial - Submissions
 | T-TELE	| Trial - Teleconference
 | T-VD	| Trial - Voir Dire
-| TMC	| Trial Management Conference
-| W-HABEAS CORP	| Writ-Habeas Corpus
-| W-MANDAMUS	| Writ-Mandamus
-| W-PROH	| Writ-Prohibition
