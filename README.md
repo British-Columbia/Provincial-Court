@@ -7,9 +7,9 @@ Electronic court registry for the Provincial Court of British Columbia
 
 ---
 
-| Forms | Hearing Lists | Judgements | Proceedings | Rules of Procedure | Submissions |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| [Access forms and templates](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Forms.md) | [View scheduled sittings](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Hearing%20List.md) | [Access select judgements from the Provincial Court](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/tree/main/Judgements) | [Access the court docket and archives](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Proceedings.md) | [Access the court's rules of procedure](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure.md) | [Access submission terminals](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Submissions.md) |
+| Forms | Hearing Lists | Judgements | Proceedings | Rules of Procedure | Submissions | Transcripts |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Access court forms](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Forms.md) | [View scheduled sittings](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Hearing%20List.md) | [View select judgements](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/tree/main/Judgements) | [View the court docket and archives](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Proceedings.md) | [View the court's rules of procedure](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure.md) | [Access submission terminals](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Submissions.md) | [View transcripts of select proceedings](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/tree/main/Transcripts) |
 
 ---
 
