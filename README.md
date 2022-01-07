@@ -29,3 +29,4 @@ Electronic court registry for the Provincial Court of British Columbia
 
 ### Miscellaneous 
 [Discord invite.](https://discord.gg/FmEEFEJWeC)
+[Statutes passed by the legislature.](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Statutes.md)
