@@ -7,8 +7,9 @@
 | APN-ACP	| Application - Attorney-Client Privilege
 | APN-AW	| Application - Arrest Warrant
 | APN-BAN PUB	| Application - Ban on Publication
-| APN-E	| Application - Expungement
-| APN-ETF	| Application - Extension Time to File
+| APN-EX	| Application - Expungement
+| APN-EXP	| Application - Expedite
+| APN-EXT FILING | Application - Extension Time to File
 | APN-SW	| Application - Search Warrant
 | APN-VP	| Application - Vexatious Proceedings
 | BW | Bench Warrant
@@ -28,9 +29,10 @@
 | JCC	| Judicial Case Conference
 | JMC	| Judicial Management Conference
 | JMT | Judgement
+| JMT-APN	| Judgement - Application
 | JMT-CR	| Judgement - Criminal
 | JMT-CV	| Judgement - Civil
-| JMT-E	| Judgement - Expungement
+| JMT-PW	| Judgement - Prerogative Writ
 | LAR	| Legal Assistance Review
 | PTC	| Pre Trial Conference
 | PW-HABEAS CORP	| Prerogative Writ-Habeas Corpus
@@ -47,5 +49,5 @@
 | T-COSTS	| Trial - Costs
 | T-DE NOVO	| Trial - De Novo
 | T-SUB	| Trial - Submissions
-| T-TELE	| Trial - Teleconference
+| T-TEL	| Trial - Teleconference
 | T-VD	| Trial - Voir Dire
