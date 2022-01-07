@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100" height="100" src="https://media.discordapp.net/attachments/824471788980404234/928819346900414556/images.png">
+<img width="200" height="200" src="https://media.discordapp.net/attachments/824471788980404234/928819346900414556/images.png">
 </p>
 
 # Court Services Online 
