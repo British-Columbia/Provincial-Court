@@ -153,5 +153,49 @@
 
 </details>
 
+
+<details close>
+<summary>Detainment Act of 2021</summary>
+
+<br><b>Section 2. DEFINITIONS</b><br>
+<br>1. Detainment shall be defined as; (a law enforcement officer), detaining another individual with legal reasoning.
+<br>2. Questioning shall be defined as; (of a law enforcement officer), holding a detainee and asking them questions for the purpose of enforcing the law.
+<br>3. Reasonable Suspicion shall be defined as; Plausible grounds to suspect an individual of attempting to or committing a crime. 
+
+<br><b>Section 3. QURSTIONING</b><br>
+<br>1. Law Enforcement Officers need reasonable suspicion to detain an individual.
+<br>2. Law Enforcement Officers do not need to identify the rights of an individual antecedent to interrogating them, and anything they say may be used against them.
+<br>3. The detainee may deny to speak to Law Enforcement Officers at any point in the period of questioning.
+<br>4. If the detainee denies to speak to the Law Enforcement Officer, and the Law Enforcement Officer does not have probable cause to make an arrest, he must release the detainee.
+<br>5. Law Enforcement Officers may hold a detainee for a maximum of forty-five (45) minutes.
+<br>6. If probable cause is not met after the maximum amount of time, Law Enforcement Officers must release the detainee.
+<br>7. A Legal Representative for the detainee, with the consent of the detainee, must be present in the room where the questioning takes place.
+<br>8. A prosecutor, with the consent of the presiding officer, may be present in the room where the questioning is taking place.
+<br>9. The detainee may ask to be provided with a Public Defender, and the interrogator must entertain. 
+
+<br><b>Section 4. RIGHTS OF A DETAINEE</b><br>
+<br>1. The detainee may request a legal representative at any time before being arrested.
+<br>2. If the detainee requests a representative, the arresting officer must provide the detainee with an attorney whenever or wherever is most convenient for him, so long as it is before the arrest.
+<br>3. When the Law Enforcement Officer and the detainee reach a convenient place to speak, the Legal Representative has 5 minutes to arrive.
+<br>4. If the Legal Representative does not arrive, the Law Enforcement Officer may proceed with an arrest.
+<br>5. If the Legal Representative does arrive, he has 5 minutes to talk to the detainee.
+
+</details>
+
+
+
+
+
+
+
+
 <br>
 <br>
+
+<details close>
+<summary></summary>
+
+<br><b></b><br>
+
+</details>
+
