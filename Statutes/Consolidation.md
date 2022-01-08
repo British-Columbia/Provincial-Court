@@ -183,7 +183,96 @@
 </details>
 
 
+<details close>
+<summary></summary>
 
+<br><b>Ministry of Commerce Act</b><br>
+
+<br><b>Section 2. Definitions in legislation</b><br>
+<br>1. The Vancouver Business Commission shall be defined as a municipal body responsible for certifying businesses.
+<br>2. The Chairman of the Business Commission shall be defined as the nominal head and administrator of the Business Commission.
+<br>3. The Ministry of Commerce shall be defined as a provincial body responsible for certifying businesses.
+<br>4. The Commerce Minister shall be defined as the nominal head and administrator of the Ministry of Commerce.
+<br>5. The Deputy Minister shall be defined as the second in command and direct successor in the line of succession in the case of the position of Commerce Minister being vacant.
+<br>6. The Premier shall be defined as the head of government, and chief elected official of the Province of Vancouver.
+
+<br><b>Section 3. Text of Legislation</b><br>
+<br>1. The Ministry of Commerce shall effectively replace the Vancouver Business Commission and their duties.
+<br>2. The Ministry of Commerce shall work with the development team on any new projects or inquiries regarding business development.
+<br>3. The Ministry of Commerce shall host subordinate departments as they deem fit; two subordinate departments remain inflexible: the Inspections Office and the Public Affairs Office.
+<br>4. The Ministry of Commerce shall be responsible for the administering of businesses, and business licenses.
+
+</details>
+
+
+<details close>
+<summary>Bill to Define the Provincial Bar Association</summary>
+
+<br><b>Section 2. Definitions in legislation</b><br>
+<br>1. Chairman shall be defined as the nominal head and administrator of the Provincial Bar Association.
+<br>2. The Ministry of Justice shall be defined as the overseeing body of the Provincial Bar Association.
+<br>3. The Vice Chairman shall be defined as the second in command of the Provincial Bar Association.
+<br>4. The Provincial Bar Association is defined as the independent subordinate department of the Ministry of Justice, responsible for administering the Provincial Bar Exam.
+<br>5. The Attorney General shall be defined as the nominal head and administrator of the Ministry of Justice.
+<br>6. The Premier of British Columbia shall be defined as the head of government for British Columbia.
+<br>7. Bar Certified Attorney shall be defined as the main means of addressing a certified attorney.
+<br>8. The Advisory Council shall be defined as Bar Certified Attorneys appointed by the Chairman to advise him on certain situations.
+<br>9. The Bar Council shall be defined as Bar Certified Attorneys of the Courts, the MOJ, and independent firms, appointed by the Premier to vote on the admission of a legal code of ethics, as well as a judicial code of ethics. 
+
+<br><b>Section 3. Text of Legislation</b><br>
+<br>1. The Provincial Bar Association or “P.B.A.” shall be responsible for administering the Bar exam to non-certified attorneys, and managing their certification.
+<br>2. Under the oversight of the MOJ, the Chairman of the Bar Association reports to the Attorney General with a weekly report who in turn reports to the Premier on its progress. 
+<br>3. The Chairman of the Bar Association is elected by Bar Certified Attorneys, after the Bar Council certifies an election.
+<br>4. The Bar Council may certify an election after the conclusion of the Chairman’s term of 3 months, after the Chairman’s resignation, or impeachment.
+<br>5. The Chairman is also responsible for upholding the Attorney and Judicial Code of Ethics, and may administer a suspension and/or revocation of a Bar certification in the event of a breach of ethics.
+<br>6. The Attorney General shall be the overseer of the P.B.A.
+<br>7. The Chairman of the Provincial Bar Association shall appoint a Vice Chairman, who shall be in direct succession to the position of Chairman shall the position become vacant.
+<br>8. The Vice Chairman shall be Chairman of the Advisory Council and Chairman of the Bar Council.
+<br>9. The Chairman may delegate his powers only to the Vice Chairman.
+<br>10. The Chairman may create additional administrative civilian ranks, but may not introduce any new command structure to the P.B.A. without an act of assembly.
+<br>11. The Bar School shall be a form of punishment for Attorneys who violate the Code of Ethics, or for officers who break the law on duty.
+<br>12. Bar School shall replace any other government sponsored school regarding the Provincial Bar.
+<br>13. All Attorneys that practice law in the Province of British Columbia must be a member of the British Columbia Provincial Bar Association. Failure to become a member will automatically lead to your Bar Certification no longer being valid.
+<br>14. Upon the passage of this law, no other entity can claim to be the overseer of the Bar Association or a member of the Bar Association.
+<br>15. Upon the passage of this law, all other laws conflict with this law, shall be deemed null and void.
+
+</details>
+
+
+<details close>
+<summary>The Check Act of 2021</summary>
+
+<br><b>Section 1. Definitions in legislation</b><br>
+<br>1. Memorandum Orders shall be defined as; Orders communicated on behalf of the Ministry of Justice through a Memorandum that compels any sort of Public Department or Office, as well as privately owned businesses certified by the Department of Commerce, citizens, and the general public to do something, or refrain from doing something. 
+
+<br><b>Section 3. Text of Legislation</b><br>
+<br>1. Memorandum Orders may only be issued for the purpose of ensuring an Office is in compliance with the law.
+<br>1.1. Reasoning must be included in the Memorandum Order; the exact crime or violation the Ministry of Justice is trying to circumvent by issuing the order.
+<br>1.2. If reasoning is not included, it is considered as a violation of the Check Act, Section Three, Subsection One, Clause A. 
+<br>1.3. If the courts believe the Ministry of Justice issued the order with any intent but ensuring that laws are followed, they may review and nullify the Memorandum Order.
+<br>2. No person who could potentially possess a conflict of interest may author a Memorandum Order, provide insight in his or her official capacity, or contribute to the making of one. 
+<br>3. If a Department or Agency fails to comply with a Memorandum Order, it shall be considered a violation of the Check Act of 2021. 
+<br>4. Memorandum Orders may be authored by an employee in the Ministry of Justice that is in compliance with Subsection Two of Article Three, with the permission and consent of the Attorney General.
+<br>5. If the Lieutenant Governor or the Premier disagree with a memorandum order, they may nullify it.
+<br>6. Memorandum Orders may not conflict or contradict legislation, the constitution or an Executive Order.
+
+</details>
+
+
+<details close>
+<summary><s>Statue of Limitations Act of 2021</s></summary>
+
+<br>[Repealed, 2021, [Statute of Limitations Act, 2021](https://drive.google.com/file/d/1_cvAxumTFulvBk34OUtL5Se6iwUFWj1L/view) art. 3, s. 1]
+
+</details>
+
+
+<details close>
+<summary></summary>
+
+<br><b></b><br>
+
+</details>
 
 
 
