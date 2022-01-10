@@ -199,7 +199,7 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 ### 11. Trial Procedures
 
-**Rule 11.1** The general steps of a trial shall go as follows:
+**Rule 11.1.** The general steps of a trial shall go as follows:
 - Opening statements, petitioner first;
 - Petitioner’s presentation of evidence;
 - Defendant’s cross-examination, if applicable;
@@ -210,13 +210,13 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 - Defendant’s re-examination, if applicable; then
 - Closing statements, petitioner first;
 
-**Rule 11.2** Oral motions may be entered by the Court during a trial at any reasonable time.
+**Rule 11.2.** Oral motions may be entered by the Court during a trial at any reasonable time.
 
 ### 12. Verdict and its Execution
 
-**Rule 12.1** In all civil cases where the Court shall issue its judgement on the matter before it, whether it be through motion or by trial, its method shall be governed by this rule.
+**Rule 12.1.** In all civil cases where the Court shall issue its judgement on the matter before it, whether it be through motion or by trial, its method shall be governed by this rule.
 
-**Rule 12.2** All written judgements should contain and explain the following:
+**Rule 12.2.** All written judgements should contain and explain the following:
 - The Court’s judgement, clearly indicating its verdict;
 - The Court’s finding of the facts;
 - The Court’s reasoning for its judgement;
@@ -357,9 +357,9 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 ### 12. Verdict and its Execution
 
-**Rule 12.1** In all criminal cases where the Court shall issue its judgement on the matter before it, whether it be through motion or by trial, its method shall be governed by this rule.
+**Rule 12.1.** In all criminal cases where the Court shall issue its judgement on the matter before it, whether it be through motion or by trial, its method shall be governed by this rule.
 
-**Rule 12.2** All written judgements should contain and explain the following:
+**Rule 12.2.** All written judgements should contain and explain the following:
 - The Court’s judgement, clearly indicating its verdict;
 - The Court’s finding of the facts;
 - The Court’s reasoning for its judgement;
