@@ -1,3 +1,5 @@
+`RULES IN THIS FILE ARE NOT IN EFFECT`
+
 # Rules of Procedure for the Provincial Court of British Columbia
 
 ## Table of Contents
