@@ -217,7 +217,7 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 ### 12. Verdict and its Execution
 
-**Rule 12.1.** In all civil cases where the Court shall issue its judgement on the matter before it, whether it be through motion or by trial, its method shall be governed by this rule.
+**Rule 12.1.** In all civil cases except small claims and applications for expungement where the Court shall issue its judgement on the matter before it, whether it be through motion or by trial, its method shall be governed by this rule.
 
 **Rule 12.2.** All written judgements should contain and explain the following:
 - The Court’s judgement, clearly indicating its verdict;
