@@ -18,7 +18,7 @@
 <br>Counsel for the Crown: **_**
 <br>Place of Hearing: **Vancouver, B.C.**
 <br>Date of Hearing: **_**
-<br>Date of Judgment: **_**
+<br>Date of Judgement: **_**
 
 ---
 
