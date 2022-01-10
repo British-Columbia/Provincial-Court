@@ -1,34 +1,52 @@
 # Rules of Procedure for the Provincial Court of British Columbia
 
 ## Table of Contents
-- [Foreward: An Introduction to the British Columbia Courts]
-  - [The Role of Citizens]
-  - [The Role of Peace Officers]
-  - [The Role of Judges]
-  - [The Role of the Provincial Court]
-- [Rules of Civil Procedure]
-  - [Notice of Claim; Reply]
-  - [Additional Pleadings]
-  - [Motions and Related Hearings]
-  - [Discovery]
-  - [Types of Cases]
-  - [Court-Parties Communication Requirements]
-  - [Third-Party Interactions and Requirements]
-  - [Rules for the Service of Process]
-  - [Formatting Requirements of Submitted Documents]
-  - [Summons]
-  - [Trial Procedures]
-  - [Verdict and its Execution]
-- [Rules of Civil Procedure]
-  - w
-- [Rules of Evidence Procedure]
-  - w
-- [Rules of Appellate Procedure]
-  - w
-- [Standing Policies]
-  - w
-
-
+- [Foreward: An Introduction to the British Columbia Courts](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#foreward-an-introduction-to-the-british-columbia-courts)
+  - [The Role of Citizens](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#the-role-of-citizens)
+  - [The Role of Peace Officers](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#the-role-of-peace-officers)
+  - [The Role of Attorneys](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#the-role-of-attorneys)
+  - [The Role of Judges](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#the-role-of-judges)
+  - [The Role of the Provincial Court](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#the-role-of-the-provincial-court)
+- [Rules of Civil Procedure](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#rules-of-civil-procedure)
+  - [Notice of Claim; Reply](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#1-notice-of-claim-reply)
+  - [Additional Pleadings](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#2-additional-pleadings)
+  - [Motions and Related Hearings](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#3-motions-and-related-hearings)
+  - [Discovery](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#4-discovery)
+  - [Types of Cases](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#5-types-of-cases)
+  - [Court-Parties Communication Requirements](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#6-court-parties-communication-requirements)
+  - [Third-Party Interactions and Requirements](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#7-third-party-interactions-and-requirements)
+  - [Rules for the Service of Process](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#8-rules-for-the-service-of-process)
+  - [Formatting Requirements of Submitted Documents](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#9-formatting-requirements-of-submitted-documents)
+  - [Summons](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#10-summons)
+  - [Trial Procedures](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#11-trial-procedures)
+  - [Verdict and its Execution](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#12-verdict-and-its-execution)
+- [Rules of Criminal Procedure](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#rules-of-criminal-procedure)
+  - [Criminal Information](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#1-criminal-information)
+  - [Court Appointed Attorney](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#2-court-appointed-attorney)
+  - [Preliminary Hearing and Arraignment](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#3-preliminary-hearing-and-arraignment)
+  - [Pleas and Plea Deals](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#4-pleas-and-plea-deals)
+  - [Pretrial Motions and Pleadings Allowed](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#5-pretrial-motions-and-pleadings-allowed)
+  - [Discovery and Disclosure Requirements](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#6-discovery-and-disclosure-requirements)
+  - [Formatting Requirements of Submitted Documents](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#7-formatting-requirements-of-submitted-documents)
+  - [Affidavits and Depositions](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#8-affidavits-and-depositions)
+  - [Presentation of Objections and Defences](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#9-presentation-of-objections-and-defences)
+  - [Subpoenas and Summons of Witnesses](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#10-subpoenas-and-summons-of-witnesses)
+  - [Trial Procedures](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#11-trial-procedures-1)
+  - [Verdict and its Execution](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#12-verdict-and-its-execution-1)
+- [Rules of Evidence](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#rules-of-evidence)
+  - [Preliminary Questions](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#2-preliminary-questions)
+  - [Excluding Evidence](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#3-excluding-evidence)
+  - [Relevance Questions](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#4-relevance-questions)
+  - [Privilege](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#5-privilege)
+  - [Subpoenas](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#6-subpoenas)
+  - [Witness Competency](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#7-witness-competency)
+  - [Affidavit Filing](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#8-affidavit-filing)
+  - [Rules Against Hearsay](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#9-rules-against-hearsay)
+- [Rules of Appellate Procedure](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#rules-of-appellate-procedure)
+- [Standing Policies](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#standing-policies)
+  - [Court Policy 2021-01](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-01)
+  - [Court Policy 2021-02](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-02)
+  - [Court Policy 2021-03](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-03)
 
 ---
 
