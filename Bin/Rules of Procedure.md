@@ -47,6 +47,7 @@
   - [Court Policy 2021-01](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-01)
   - [Court Policy 2021-02](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-02)
   - [Court Policy 2021-03](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-03)
+  - [Court Policy 2022-01](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2022-01)
 
 ---
 
@@ -496,5 +497,11 @@ As a backlog of cases has been created throughout dockets of Justices/Judges in 
   - Criminal- 2
 
 Judges/Justices will be mandated to complete a total of 10 Cases throughout the course of a month. This may be excused by approval from the Chief Justice.
+
+### Court Policy 2022-01
+
+In an extraordinary circumstance, the courts, other than the Court of Appeal, may allow the selection as a counselor, one who is not an attorney at law, if the proposed counselor and the party agrees.
+
+
 
 ---
