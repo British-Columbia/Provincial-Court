@@ -12,6 +12,7 @@
 | APN-EXT FILING | Application - Extension Time to File
 | APN-SW	| Application - Search Warrant
 | APN-VP	| Application - Vexatious Proceedings
+| ART | Arraignment 
 | BW | Bench Warrant
 | C	| Costs
 | CC | Conference Call
@@ -35,19 +36,21 @@
 | JMT-PW	| Judgement - Prerogative Writ
 | LAR	| Legal Assistance Review
 | PTC	| Pre Trial Conference
+| PH | Preliminary Hearing
 | PW-HABEAS CORP	| Prerogative Writ-Habeas Corpus
 | PW-MANDAMUS	| Prerogative Writ-Mandamus
 | PW-PROH	| Prerogative Writ-Prohibition
+| R-BAIL | Review Bail
+| R-GO | Review Garnishing Order
 | R-JMT | Review Judgement
 | R-SNT	| Review Sentence
 | RO	| Restraining Order
+| SB | Set Bail
 | SC	| Settlement Conference
-| SET ASIDE GO	| Set Aside Garnishing Order
 | SNT	| Sentencing
 | SO	| Settlement Order
 | T	| Trial
 | T-COSTS	| Trial - Costs
 | T-DE NOVO	| Trial - De Novo
-| T-SUB	| Trial - Submissions
 | T-TEL	| Trial - Teleconference
 | T-VD	| Trial - Voir Dire
