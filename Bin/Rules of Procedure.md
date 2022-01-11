@@ -256,7 +256,7 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 **Rule 3.2.** If the defendant fails to enter a plea to the charges in a certain reasonable allotted period of time by the Court, a default plea of not guilty shall be entered.
 
-**Rule 3.3.** Counsel for the defendant may not enter a plea of guilty or nolo contendere without the express consent of the defendant. 
+**Rule 3.3.** Counsel for the defendant may not enter a plea of guilty without the express consent of the defendant. 
 
 **Rule 3.4.** Both parties in a criminal proceeding may only file preliminary motions up to 24 hours before the scheduled trial time.
 
@@ -268,7 +268,6 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 - Charges being dropped by Crown Counsel;
 - Charges to which the defendant is pleading guilty to;
 - Charges to which the defendant is pleading not guilty to;
-- Charges to which the defendant is pleading nolo contendere to;
 - The terms agreed to by the Crown Counsel and the defendant;
 - The date of when the deal was sealed; and
 - The signatures and approval of the Crown Counsel and the defendant.
