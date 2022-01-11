@@ -17,9 +17,11 @@ Courtroom Bailiff   British Columbia Sheriff Service    N/A
 **Rule 1 - Conformity with Local Rules:** Unless otherwise indicated herein, Department 8 strictly adheres to the Rules of Procedure for the Provincial Court of British Columbia
 for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative Rules of Court.
 
-**Rule 2 - Contacts:** All parties or their counselors are required to contact the Courtroom Clerk, or in their absence, the presiding judge within forty-eight (48) hours of their matter being docketed. The Courtroom Clerk is authorized to handle all scheduling, submissions of motions, logistics, and any other questions pertaining to the docketed case. 
+**Rule 2 - Contacts:** All parties or their counselors are required to contact the Courtroom Clerk, or in their absence, the presiding judge within 48 hours of their matter being docketed. The Courtroom Clerk is authorized to handle all scheduling, submissions of motions, logistics, and any other questions pertaining to the docketed case. 
 
-**Rule 2.1 Absent of Courtroom Clerk** In general, where the Courtroom Clerk is on leave or otherwise unavailable, contacts that should be made to the Courtroom Clerk under these Department Policies may be made to the presiding judge instead.
+**Rule 2.1 - Absent of Courtroom Clerk:** In general, where the Courtroom Clerk is on leave or otherwise unavailable, mentions of the Courtroom Clerk under these Department Policies may be interperted to be mentions of the presiding judge instead.
+
+**Rule 2.2 - Representative of Parties:** In general, contacts that should be made by the movant under these Department Policies may be made by the movant's representative of record.
 
 **Rule 3 - Submission of Motions:** All motions are required to be submitted no less than 24 hours before a hearing. Motions that are submitted past this period will not be reviewed. All parties are given 48 hours to oppose any motion that is submitted before the court. All motions are to be submitted to the Courtroom Clerk through the case specific discord channel. Motions must also be CC’d to the District Court Clerk through the appropriate Court’s DiscordApp channel.
 
@@ -46,6 +48,12 @@ for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative
 **Rule 11 - Transcript Services:** See the Registrar or Clerk of Court for the Provincial Court for transcripts.
 
 **Rule 12 - Enforcement:** The Courtroom Clerk is responsible for the enforcement of all department policies. The Courtroom Clerk is also tasked with the moderation of the chambers to ensure that all communications are in accordance with the server rules.
+
+**Rule 13 - Expungement Applications:** All applicants for an expungement shall, within 48 hours of filing their applicantion or within 24 hours of being prompted by the Courtroom Clerk, whichever shall come last, submit a statement no less than five sentences and no more than twenty detailing the reasons why this Court should grant the application. The Crown may, within 48 hours of the applicant's submission of their statement, submit a statement in rebuttal no more than twenty sentences detailing the reasons why this Court should deny the application
+
+**Rule 13.1 - Extentions:** Upon the applicant's written notification to the Courtroom Clerk at least 2 hours before the deadline stipulated in Rule 13, the presiding judge shall grant an extention to this deadline for a reasonable period.
+
+**Rule 14 - Dismissal:** The presiding judge may dismiss an action or application if the movant fails to adhere to these Department Policies.  
 
 ---
 
