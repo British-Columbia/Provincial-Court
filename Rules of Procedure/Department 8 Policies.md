@@ -49,7 +49,7 @@ for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative
 
 **Rule 12 - Enforcement:** The Courtroom Clerk is responsible for the enforcement of all department policies. The Courtroom Clerk is also tasked with the moderation of the chambers to ensure that all communications are in accordance with the server rules.
 
-**Rule 13 - Expungement Applications:** All applicants for an expungement shall, within 48 hours of filing their applicantion or within 24 hours of being prompted by the Courtroom Clerk, whichever shall come last, submit a statement no less than five sentences and no more than twenty detailing the reasons why this Court should grant the application. The Crown may, within 48 hours of the applicant's submission of their statement, submit a statement in rebuttal no more than twenty sentences detailing the reasons why this Court should deny the application
+**Rule 13 - Expungement Applications:** All applicants for an expungement shall, within 48 hours of filing their applicantion or within 24 hours of being prompted by the Courtroom Clerk, whichever shall come last, submit a statement no less than five sentences and no more than twenty detailing the reasons why this Court should grant the application. The Crown may, within 48 hours of the applicant's submission of their statement, submit a statement in rebuttal no more than twenty sentences detailing the reasons why this Court should deny the application.
 
 **Rule 13.1 - Extentions:** Upon the applicant's written notification to the Courtroom Clerk at least 2 hours before the deadline stipulated in Rule 13, the presiding judge shall grant an extention to this deadline for a reasonable period.
 
