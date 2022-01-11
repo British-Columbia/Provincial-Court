@@ -19,7 +19,7 @@ for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative
 
 **Rule 2 - Contacts:** All parties or their counselors are required to contact the Courtroom Clerk, or in their absence, the presiding judge within forty-eight (48) hours of their matter being docketed. The Courtroom Clerk is authorized to handle all scheduling, submissions of motions, logistics, and any other questions pertaining to the docketed case. 
 
-**Rule 2.1 Absent of Courtroom Clerk** In general, where the Courtroom Clerk is on leave or otherwise unavailable, contacts that should be made to the Courtroom Clerk under these Department Policies mayh be made to the presiding judge instead.
+**Rule 2.1 Absent of Courtroom Clerk** In general, where the Courtroom Clerk is on leave or otherwise unavailable, contacts that should be made to the Courtroom Clerk under these Department Policies may be made to the presiding judge instead.
 
 **Rule 3 - Submission of Motions:** All motions are required to be submitted no less than 24 hours before a hearing. Motions that are submitted past this period will not be reviewed. All parties are given 48 hours to oppose any motion that is submitted before the court. All motions are to be submitted to the Courtroom Clerk through the case specific discord channel. Motions must also be CC’d to the District Court Clerk through the appropriate Court’s DiscordApp channel.
 
