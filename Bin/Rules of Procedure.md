@@ -45,7 +45,7 @@
   - [Affidavit Filing](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#8-affidavit-filing)
   - [Rules Against Hearsay](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#9-rules-against-hearsay)
 - [**Rules of Appellate Procedure**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#rules-of-appellate-procedure)
-- [**Standing Policies**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#standing-policies)
+- [**Local Administrative Rules of Court**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#local-administrative-rules-of-court)
   - [Court Policy 2021-01](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-01)
   - [Court Policy 2021-02](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-02)
   - [Court Policy 2021-03](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-03)
@@ -460,7 +460,7 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 ---
 
-## Standing Policies
+## Local Administrative Rules of Court
 
 ### Court Policy 2021-01
 
