@@ -21,7 +21,7 @@ The Court has reviewed following applications for expungement and will issue it'
 | Citation | Judgement |
 | :---: | :---: |
 | In the matter of an application by John Doe pursuant to Article 10 of the Constitution Act of 1867 | <ul><li>- [x] Granted</li><li>- [x] Denied</li></ul> |
-| In the matter of an application by John Roe pursuant to Article 10 of the Constitution Act of 1867 | <ul><li>- [ ] Granted</li><li>- [ ] Denied</li></ul> |
+| In the matter of an application by Jane Roe pursuant to Article 10 of the Constitution Act of 1867 | <ul><li>- [ ] Granted</li><li>- [ ] Denied</li></ul> |
 	
 ---
 
