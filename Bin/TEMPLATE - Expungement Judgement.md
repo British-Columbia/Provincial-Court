@@ -1,34 +1,27 @@
-	Citation:       In the matter of an application by John Doe pursuant to Article X of the Constitution Act??
+	Citation:       In the matter of an application by John Doe pursuant to Article 10 of the Constitution Act of 1867
+                	2022 BCPC 0
+			In the matter of an application by Jane Roe pursuant to Article 10 of the Constitution Act of 1867
                 	2022 BCPC 0
 	Date:		20220101
-	File Number:	10000-1
+	File Number:	00000
 	Registry:	Vancouver
 
 <p align="center"><b><i>IN THE PROVINCIAL COURT OF BRITISH COLUMBIA</b></i>
 
 ---
 
-<p align="center"><b>IN THE MATTER OF<br><br>AN APPLICATION BY JOHN DOE<br>PURSUANT TO<br>ARTICLE X OF THE <i>CONSTITUTION ACT?</i></b>
-
----
-	
-<p align="center"><b>REASONS FOR JUDGEMENT<br>OF THE<br>HONOURABLE JUDGE _</b>
-
-<br>Counsel for the Petitioner: **_**
-<br>Counsel for the Crown: **_**
-<br>Place of Hearing: **Vancouver, B.C.**
-<br>Date of Hearing: **_**
-<br>Date of Judgement: **_**
+<p align="center"><b>NOTICE OF JUDGEMENT<br>OF THE<br>HONOURABLE JUDGE _</b>
 
 ---
 
-**INTRODUCTION**
+**JUDGEMENT**
 
-[1] Text.
+The Court has reviewed following applications for expungement and will issue it's judgement as follows:
 
-**CONCLUSION**
-
-[2] Text.
+| Citation | Judgement |
+| :---: | :---: |
+| In the matter of an application by John Doe pursuant to Article 10 of the Constitution Act of 1867 | <ul><li>- [x] Granted</li><li>- [x] Denied</li></ul> |
+| In the matter of an application by John Roe pursuant to Article 10 of the Constitution Act of 1867 | <ul><li>- [ ] Granted</li><li>- [ ] Denied</li></ul> |
 	
 ---
 
