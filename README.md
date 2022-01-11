@@ -15,6 +15,7 @@ Electronic court registry for the Provincial Court of British Columbia
 | Hearing List | [View scheduled sittings](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Resources/Hearing%20List.md)
 | Judgements | [View select judgements](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/tree/main/Judgements)
 | Proceedings | [View the court docket and archives](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Resources/Proceedings.md)
+| Registrar of Actions | [View judicial actions issued in each case](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/tree/main/Registrar%20of%20Actions)
 | Rules of Procedure | [View the court's rules of procedure](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Resources/Rules%20of%20Procedure.md)
 | Submissions | [Access submission terminals](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Resources/Submissions.md)
 | Transcripts | [View transcripts of select proceedings](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/tree/main/Transcripts)
