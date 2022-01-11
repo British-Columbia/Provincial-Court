@@ -25,11 +25,11 @@ for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative
 
 **Rule 3.1 - Document Form:** All motions submitted to the Court must be compliant with the Rules of of Procedure for the Provincial Court of British Columbia. The Court requires that all be in portable document form (PDF). Motions submitted to the Courtroom Clerk through Google Docs will not be processed.
 
-**Rule 4 Discovery:** Discovery is prescribed by the Court upon request. Unless otherwise requested, discovery will be issued a cutoff exactly 24 hours before the agreed upon time for trial hearing. Any discovery submitted after the processing cutoff requires consent from both parties to become admitted. Discovery is submitted in the case channel.
+**Rule 4 - Discovery:** Discovery is prescribed by the Court upon request. Unless otherwise requested, discovery will be issued a cutoff exactly 24 hours before the agreed upon time for trial hearing. Any discovery submitted after the processing cutoff requires consent from both parties to become admitted. Discovery is submitted in the case channel.
 
 **Rule 5 - Continuances:** All motions for continuance are issued a processing cut off 12 hours before the matter’s hearing. Motions must be submitted no less than 12 hours before the hearing in order to be processed. Like all other motions, motions for continuance must be submitted to the Courtroom Clerk through the case channel.
 
-**Rule 6 Scheduling:** The Court publishes a monthly agenda outlining dates and times when matters can be heard. The Courtroom Clerk will mediate scheduling directly between parties. Hearings must be scheduled within the prescribed agenda for the current month, and counselors are highly urged to schedule cases in the same week that they are docketed.
+**Rule 6 - Scheduling:** The Court publishes a monthly agenda outlining dates and times when matters can be heard. The Courtroom Clerk will mediate scheduling directly between parties. Hearings must be scheduled within the prescribed agenda for the current month, and counselors are highly urged to schedule cases in the same week that they are docketed.
 
 **Rule 7 - Hearing Locations:** Department 8 utilizes both in-person hearings and virtual hearings. In-person hearings are always held at the Vancouver Law Courts. Virtual hearings are prescribed in the respective case chat. The Court frequently employs both variants of hearings, and you will be notified a reasonable amount of time prior to your hearing where the matter will be heard.
 
