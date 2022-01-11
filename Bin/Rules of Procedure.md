@@ -505,5 +505,6 @@ Judges/Justices will be mandated to complete a total of 10 Cases throughout the 
 In an extraordinary circumstance, the courts, other than the Court of Appeal, may allow the selection as a counselor, one who is not an attorney at law, if the proposed counselor and the party agrees.
 
 
-
 ---
+
+**PUBLISHED DATE**
