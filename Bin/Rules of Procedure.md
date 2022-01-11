@@ -464,8 +464,8 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 ### Court Policy 2021-01
 
-In an expungement matter, the petitioner or their designee must obtain a digital report of their criminal record or a copy thereof as follows:
-- The digital report must contain petitioner's entire criminal record, including all arrests and citations;
+In an expungement matter, the applicant or their designee must obtain a digital report of their criminal record or a copy thereof as follows:
+- The digital report must contain applicant's entire criminal record, including all arrests and citations;
 - The digital report must be dated; and
 - The digital report must include the date and reason of the most recent arrest and/or citation.
 
