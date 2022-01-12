@@ -231,7 +231,7 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 ### 13. Expungement Proceedings
 
-**Rule 13.1.** In all actions that are expungement applications pursuant to Rule 5.4, the applicant shall only be subject to Rule 13.
+**Rule 13.1.** All actions that are expungement applications pursuant to Rule 5.4 shall only be subject to Rule 13.
 
 **Rule 13.2.** Applicants for expungement shall not claim a tort against any person.
 
