@@ -598,8 +598,8 @@ The British Columbia Courts will maintain a civilian staff as follows
 As a backlog of cases has been created throughout dockets of Justices/Judges in recent weeks the following case procedure is now in effect:
 - Judges/Justices may only take the following amount of given cases on their docket’s at a time, as follows:
   - Expungement - 5
-  - Civil- 2
-  - Criminal- 2
+  - Civil - 2
+  - Criminal - 2
 
 Judges/Justices will be mandated to complete a total of 10 Cases throughout the course of a month. This may be excused by approval from the Chief Justice.
 
