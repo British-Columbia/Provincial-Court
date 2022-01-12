@@ -42,9 +42,10 @@
   - [Relevance Questions](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#4-relevance-questions)
   - [Privilege](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#5-privilege)
   - [Subpoenas](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#6-subpoenas)
-  - [Witness Competency](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#7-witness-competency)
+  - [Witness](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#7-witnesses)
   - [Affidavit Filing](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#8-affidavit-filing)
   - [Rules Against Hearsay](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#9-rules-against-hearsay)
+  - [Incriminating Questions](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#10-incriminating questions)
 - [**Rules of Appellate Procedure**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#rules-of-appellate-procedure)
 - [**Local Administrative Rules of Court**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#local-administrative-rules-of-court)
   - [Court Policy 2021-01](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-01)
@@ -52,6 +53,7 @@
   - [Court Policy 2021-03](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-03)
   - [Court Policy 2022-01](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2022-01)
   - [Court Policy 2022-02](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2022-02)
+  - [Court Policy 2022-03](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2022-03)
 
 ---
 
@@ -291,9 +293,9 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 **Rule 1.3.** Criminal Informations under this rule must be filed within 48 hours of being prompted to do so by the Court, unless otherwise instructed by the Court.
 
-**Rule 1.4.** The Crosn must establish, in their Criminal Information, probable cause of an offence committed by the defendant in order to be accepted unless the Court elects to hold a preliminary hearing to determine probable cause instead, in which case a Criminal Information may be accepted immediately.
+**Rule 1.4.** The Crown must establish, in their Criminal Information, probable cause of an offence committed by the defendant in order to be accepted 
 
-**Rule 1.4.1.** If the Court determines no probable cause to proceed in such a preliminary hearing stipulated in Rule 1.4, the Court shall dismiss the case.
+**Rule 1.4.1.** Notwithstanding Rule 1.4, the Court may elect to hold a preliminary hearing to determine probable cause, in which case a Criminal Information may be accepted expeditiously.
 
 **Rule 1.5.** Upon acceptance of a Criminal Information, the Court shall approve a Notice of Appearance to be sent to the defendant to compel attendance within 72 hours of such notice.
 
@@ -314,6 +316,10 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 **Rule 3.3.** Counsel for the defendant may not enter a plea of guilty without the express consent of the defendant. 
 
 **Rule 3.4.** Both parties in a criminal proceeding may only file preliminary motions up to 24 hours before the scheduled trial time.
+
+**Rule 3.5.** If the Court accepts a Criminal Information in an expedited manner pursuant to Rule 1.4, it shall hold a preliminary hearing to determine probable cause.
+
+**Rule 3.5.1.** If the Court determines no probable cause to proceed in a preliminary hearing stipulated in Rule 3.5, the Court shall dismiss the case and hold the defendant to no conditions or obligations.
 
 ### 4. Pleas and Plea Deals
 
@@ -380,7 +386,9 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 **Rule 8.2.** All affidavits and depositions must contain the signature of the witness and must be sworn under oath to be admitted.
 
 **Rule 8.3.** Affidavits and depositions shall be treated as articles of evidence.
- 
+
+**Rule 8.4.** A deposition of a witness, purporting to have been taken before a judge on the investigation of a criminal charge and to be signed by the witness and the judge, returned to and produced from the custody of the proper officer shall be presumed, in the absence of evidence to the contrary, to have been signed by the witness.
+
 ### 9. Presentation of Objections and Defences
 
 **Rule 9.1.** Objections can be raised by either parties during a criminal trial.
@@ -486,31 +494,66 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 **Rule 6.4.** Subpoenas must be served 48 hours before the time the person subpoenaed is ordered to appear.
 
-### 7. Witness Competency
+### 7. Witnesses
 
 **Rule 7.1.** Every person is competent to be a witness unless the parties prove to the Court otherwise. 
+
 **Rule 7.2.** A witness may testify to a matter only if evidence is introduced sufficient to support a finding that the witness has personal knowledge of the matter.
+
 **Rule 7.3.** Before testifying, a witness must give an oath or affirmation to testify truthfully.
+
+**Rule 7.4.** A person is not incompetent to give evidence by reason of interest or crime.
+
+**Rule 7.5.** A witness may give evidence as to the identity of an accused whom the witness is able to identify visually or in any other sensory manner
+
+**Rule 7.6.** Where, in any trial or other proceeding, criminal or civil, it is intended by the prosecution or the defence, or by any party, to examine as witnesses professional or other experts entitled according to the law or practice to give opinion evidence, not more than two of such witnesses may be called on either side without the leave of the Court.
+
+**Rule 7.7.** A party producing a witness shall not be allowed to impeach his credit by general evidence of bad character, but if the witness, in the opinion of the Court, proves adverse, the party may contradict him by other evidence, or, by leave of the Court, may prove that the witness made at other times a statement inconsistent with his present testimony, but before the last mentioned proof can be given the circumstances of the supposed statement, sufficient to designate the particular occasion, shall be mentioned to the witness, and he shall be asked whether or not he did make the statement.
+
+**Rule 7.7.1.** Where the party producing a witness alleges that the witness made at other times a statement in writing, reduced to writing, or recorded on audio tape or video tape or otherwise, inconsistent with the witness’ present testimony, the Court may, without proof that the witness is adverse, grant leave to that party to cross-examine the witness as to the statement and the Court may consider the cross-examination in determining whether in the opinion of the court the witness is adverse.
+
+**Rule 7.7.2.** On any trial a witness may be cross-examined as to previous statements that the witness made in writing, or that have been reduced to writing, or recorded on audio tape or video tape or otherwise, relative to the subject-matter of the case, without the writing being shown to the witness or the witness being given the opportunity to listen to the audio tape or view the video tape or otherwise take cognizance of the statements, but, if it is intended to contradict the witness, the witness’ attention must, before the contradictory proof can be given, be called to those parts of the statement that are to be used for the purpose of so contradicting the witness, and the Court, at any time during the trial, may require the production of the writing or tape or other medium for inspection, and thereupon make such use of it for the purposes of the trial as the Court thinks fit.
+
+**Rule 7.7.3.** Where a witness, on cross-examination as to a former statement made by him relative to the subject-matter of the case and inconsistent with his present testimony, does not distinctly admit that he did make the statement, proof may be given that he did in fact make it, but before that proof can be given the circumstances of the supposed statement, sufficient to designate the particular occasion, shall be mentioned to the witness, and he shall be asked whether or not he did make the statement.
+
+**Rule 7.8.** A witness may be questioned as to whether the witness has been convicted of any offence, excluding any offence designated as a traffic offence or municipal bylaw violation, but including such an offence where the conviction was entered after a trial.
+
+**Rule 7.8.1.** If the witness either denies the fact or refuses to answer, the opposite party may prove the conviction.
+
+**Rule 7.8.2.** A conviction may be proved by producing any document in the Court Record to that effect, but not digital records purporting to show a sentence or fine in the witness's name.
 
 ### 8. Affidavit Filing
 
 **Rule 8.1.** The party must submit the document in a Portable Document Format to the Courtfor it to be registered on the record.
 
-**Rule 8.2.** All affidavits and depositions must contain the signature of the witness and must be sworn under oath to be admitted.
+**Rule 8.2.** All affidavits and depositions must contain the signature of the witness and must be sworn under oath or affirmation to be admitted.
 
 **Rule 8.3.** Affidavits and depositions shall be treated as articles of evidence.
 
 ### 9. Rules Against Hearsay
 
-**Rule 9.1.** Hearsay is not admissible.
+**Rule 9.1.** Hearsay is written or oral statements, or communicative conduct made by persons otherwise than in testimony at the proceeding in which it is offered, are inadmissible, if such statements or conduct are tendered either as proof of their truth or as proof of assertions implicit therein.
 
-**Rule 9.2.** Hearsay within hearsay is not excluded by the rule against hearsay if each part of the combined statements conforms with an exception to the rule.
+**Rule 9.2.** The Court may permit exceptions to hearsay as follows:
+- Where the statement is an admission by the defendant;
+- When the statement is made against the declarator's interest;
+- When the statement is made in the course of the declarator's duty;
+- When the statement is part of a government document or a certified copy thereof;
+- When the statement is a dying declaration;
+- Where the declarator was in a state of shock or surprise;
+- Where the statement is sowrn testimony in a previous hearing;
+- Where the statement is a past recollection that is recorded;
+- Where the statement conveys state of mindl
+- Where the statement conveys present intentions;
+- Where the statement is subject to statutory exceptions; 
+- Where the statement is part of the narrative of the evidence; and
+- Where the evidence is both necessary and reliable.
 
-**Rule 9.3.** A statement describing or explaining an event or condition is not excluded by the rule against hearsay.
+### 10. Incriminating Questions
 
-**Rule 9.4.** A statement of the declarant’s then-existing state of mind, emotional, sensory, or physical condition, but not including a statement of memory or belief to prove the fact remembered or believed unless it relates to the validity or terms of the declarant’s will is not excluded by the rule against hearsay.
+**Rule 10.1.** No witness shall be excused from answering any question on the ground that the answer to the question may tend to criminate him, or may tend to establish his liability to a civil proceeding at the instance of the Crown or of any person.
 
-**Rule 9.5.** The Court may permit exceptions to hearsay.
+**Rule 10.2.** Where with respect to any question a witness objects to answer on the ground that his answer may tend to criminate him, or may tend to establish his liability to a civil proceeding at the instance of the Crown or of any person, and if but for this rule, or the Act of any provincial legislature, the witness would therefore have been excused from answering the question, then although the witness is by reason of this rule or the provincial Act compelled to answer, the answer so given shall not be used or admissible in evidence against him in any criminal trial or other criminal proceeding against him thereafter taking place, other than a prosecution for perjury in the giving of that evidence or for the giving of contradictory evidence.
 
 ---
 
@@ -585,6 +628,14 @@ When a judge publishes a court file, that file shall be assigned a **file number
 - Formatted as `ABCDE`-`X` **where**
   - `ABCDE` is a five-digit docket number.
   - `X` is a one-digit number that simply counts up 1 for every file published in each case, starting with `1`.
+
+### Court Policy 2022-03 
+
+Every Court and judge, and every person having, by law or consent of parties, authority to hear and receive evidence, has power to administer an oath to every witness who is legally called to give evidence before that Court, judge or person.
+
+A witness may, instead of taking an oath, make the following solemn affirmation: `I solemnly affirm that the evidence to be given by me shall be the truth, the whole truth and nothing but the truth.`
+
+Where a witness makes a solemn affirmation, his evidence shall be taken and have the same effect as if taken under oath.
 
 ---
 
