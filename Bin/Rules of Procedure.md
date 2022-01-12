@@ -543,7 +543,7 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 - Where the declarator was in a state of shock or surprise;
 - Where the statement is sowrn testimony in a previous hearing;
 - Where the statement is a past recollection that is recorded;
-- Where the statement conveys state of mindl
+- Where the statement conveys state of mind;
 - Where the statement conveys present intentions;
 - Where the statement is subject to statutory exceptions; 
 - Where the statement is part of the narrative of the evidence; and
