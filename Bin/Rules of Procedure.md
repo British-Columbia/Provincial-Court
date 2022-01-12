@@ -92,7 +92,7 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 **Rule 1.2.1.** If the Court cannot determine the reasoning for the lawsuit, it shall have the claims dismissed. 
 
-**Rule 1.3.** A Notice of CLaim shall be distinguished by a heading and have all counts organized in paragraphs or numbered lists for easy reading.
+**Rule 1.3.** A Notice of Claim shall be distinguished by a heading and have all counts organized in paragraphs or numbered lists for easy reading.
 
 **Rule 1.4.** Should the petitioner find it necessary, or if the Court orders it, the petitioner can file an amended Notice of Claim subject to approval by the Court. 
 
