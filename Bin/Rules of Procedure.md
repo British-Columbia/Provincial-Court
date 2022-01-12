@@ -291,6 +291,12 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 **Rule 1.3.** Criminal Informations under this rule must be filed within 48 hours of being prompted to do so by the Court, unless otherwise instructed by the Court.
 
+**Rule 1.4.** The Crosn must establish, in their Criminal Information, probable cause of an offence committed by the defendant in order to be accepted unless the Court elects to hold a preliminary hearing to determine probable cause instead, in which case a Criminal Information may be accepted immediately.
+
+**Rule 1.4.1.** If the Court determines no probable cause to proceed in such a preliminary hearing stipulated in Rule 1.4, the Court shall dismiss the case.
+
+**Rule 1.5.** Upon acceptance of a Criminal Information, the Court shall approve a Notice of Appearance to be sent to the defendant to compel attendance within 72 hours of such notice.
+
 ### 2. Court Appointed Attorney
 
 **Rule 2.1.** Defendants in criminal proceedings have the right to adequate legal representation by an attorney. 
@@ -301,7 +307,7 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 ### 3. Preliminary Hearing and Arraignment
 
-**Rule 3.1.** Prior to trial scheduling, the defendant must enter a plea to the charges listed in the criminal information.
+**Rule 3.1.** Prior to trial scheduling, the defendant must enter a plea to the charges listed in the criminal information after being read his charges during arraignment. 
 
 **Rule 3.2.** If the defendant fails to enter a plea to the charges in a certain reasonable allotted period of time by the Court, a default plea of not guilty shall be entered.
 
@@ -477,6 +483,8 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 **Rule 6.2.** Subpoenas for the production of documentary evidence, shall be issued only upon a written motion. Such motion shall specify, as exactly as possible, the documents desired.
 
 **Rule 6.3.** Subpoenas shall be served by a clerk or a peace officer.
+
+**Rule 6.4.** Subpoenas must be served 48 hours before the time the person subpoenaed is ordered to appear.
 
 ### 7. Witness Competency
 
