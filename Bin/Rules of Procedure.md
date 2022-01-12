@@ -229,7 +229,7 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 - The signature of Judge issuing the judgement; and
 - Anything else appropriate. 
 
-### Rule 13. Expungement Proceedings
+### 13. Expungement Proceedings
 
 **Rule 13.1.** In all actions that are expungement applications pursuant to Rule 5.4, the applicant shall only be subject to Rule 13.
 
