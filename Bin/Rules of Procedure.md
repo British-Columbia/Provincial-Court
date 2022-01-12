@@ -50,7 +50,6 @@
 - [**Local Administrative Rules of Court**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#local-administrative-rules-of-court)
   - [Court Policy 2021-01](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-01)
   - [Court Policy 2021-02](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-02)
-  - [Court Policy 2021-03](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-03)
   - [Court Policy 2022-01](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2022-01)
   - [Court Policy 2022-02](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2022-02)
   - [Court Policy 2022-03](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2022-03)
@@ -592,16 +591,6 @@ The British Columbia Courts will maintain a civilian staff as follows
 
 **Court Reporters**
 > 1 Court Reporter
-
-### Court Policy 2021-03
-
-As a backlog of cases has been created throughout dockets of Justices/Judges in recent weeks the following case procedure is now in effect:
-- Judges/Justices may only take the following amount of given cases on their docket’s at a time, as follows:
-  - Expungement - 5
-  - Civil - 2
-  - Criminal - 2
-
-Judges/Justices will be mandated to complete a total of 10 Cases throughout the course of a month. This may be excused by approval from the Chief Justice.
 
 ### Court Policy 2022-01
 
