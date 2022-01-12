@@ -553,7 +553,7 @@ A **docket number** shall also be assigned to each case as follows:
     - `1` for civil matters;
     - `2` for criminal matters; and
     - `3` for applications and all other matters.
-  - `B` is a one-digit number for the department of the judge assigned to the case. If the assignment changes, so will the `B` value. There are nine departments on the Provincial Court.
+  - `B` is a one-digit number for the department of the judge assigned to the case. If the assignment changes, so will the `B` value. There are nine departments in the Provincial Court.
   - `CDE` is a three-digit number that simply counts up 1 for every case, starting with `001`. This number does not reset; if a judge leaves office the count shall pause; the next judge shall continue the count where it was paused.
 
 When a judge publishes a court file, that file shall be assigned a **file number** as follows:
