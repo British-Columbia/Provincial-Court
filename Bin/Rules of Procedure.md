@@ -45,7 +45,7 @@
   - [Witness](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#7-witnesses)
   - [Affidavit Filing](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#8-affidavit-filing)
   - [Rules Against Hearsay](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#9-rules-against-hearsay)
-  - [Incriminating Questions](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#10-incriminating questions)
+  - [Incriminating Questions](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#10-incriminating-questions)
 - [**Rules of Appellate Procedure**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#rules-of-appellate-procedure)
 - [**Local Administrative Rules of Court**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#local-administrative-rules-of-court)
   - [Court Policy 2021-01](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-01)
