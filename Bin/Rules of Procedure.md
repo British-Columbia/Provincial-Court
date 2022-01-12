@@ -51,6 +51,7 @@
   - [Court Policy 2021-02](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-02)
   - [Court Policy 2021-03](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2021-03)
   - [Court Policy 2022-01](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2022-01)
+  - [Court Policy 2022-02](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#court-policy-2022-02)
 
 ---
 
@@ -538,6 +539,27 @@ Judges/Justices will be mandated to complete a total of 10 Cases throughout the 
 
 In an extraordinary circumstance, the courts, other than the Court of Appeal, may allow the selection as a counselor, one who is not an attorney at law, if the proposed counselor and the party agrees.
 
+### Court Policy 2022-02
+
+In the Provincial Court of British Columbia, a neutral citation shall be assigned to each case as follows:
+```
+Party v. Party 202# BCPC #
+                  ^Year  ^Number counting up from 1, starting with the first case filed in a given calendar year
+```
+
+A **docket number** shall also be assigned to each case as follows:
+- Formatted as `A` `B` `CDE` **where**
+  - `A` is a one-digit number for the case type:
+    - `1` for civil matters;
+    - `2` for criminal matters; and
+    - `3` for applications and all other matters.
+  - `B` is a one-digit number for the department of the judge assigned to the case. If the assignment changes, so will the `B` value. There are nine departments on the Provincial Court.
+  - `CDE` is a three-digit number that simply counts up 1 for every case, starting with `001`. This number does not reset; if a judge leaves office the count shall pause; the next judge shall continue the count where it was paused.
+
+When a judge publishes a court file, that file shall be assigned a **file number** as follows:
+- Formatted as `ABCDE`-`X` **where**
+  - `ABCDE` is a five-digit docket number.
+  - `X` is a one-digit number that simply counts up 1 for every file published in each case, starting with `1`.
 
 ---
 
