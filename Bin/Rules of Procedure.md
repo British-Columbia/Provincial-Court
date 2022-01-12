@@ -109,6 +109,8 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 - The date of when the Reply was filed; and 
 - The signature of the person filing the Reply.
 
+**Rule 1.7.** Notices of Claim and Replies must be filed within 48 hours of being prompted to do so by the Court, unless otherwise instructed by the Court
+
 ### 2. Additional Pleadings
 
 **Rule 2.1.** The following pleadings shall be the only ones permitted unless a party shall have been granted leave by the Court:
@@ -118,6 +120,9 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 - An amended Reply.
 
 **Rule 2.1.1.** The Court may permit a special pleading to be filed relating to a case when pleadings already permitted are insufficient.
+
+**Rule 2.2.** Pleadings under this rule must be filed within 48 hours of being prompted to do so by the Court, unless otherwise instructed by the Court.
+
 
 ### 3. Motions and Related Hearings
 
@@ -143,12 +148,18 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 **Rule 3.4.** The Court may, by its own or a party’s motion, hold a hearing to further clarify and discuss the grounds and reasons for the motion.
 
+**Rule 3.5.** Motions and their answers under this rule must be filed within 48 hours of being prompted to do so by the Court, unless otherwise instructed by the Court.
+
 ### 4. Discovery
 
 **Rule 4.1.** During the pretrial period, both parties shall produce the following:
 - A list of all evidence intended to be used;
 - A list of all witnesses intented to be called; and
 - Anything else ordered by the Court.
+
+**Rule 4.2.** Discovery files and documents under this rule must be filed within 72 hours of being prompted to do so by the Court, unless otherwise instructed by the Court.
+
+**Rule 4.3.** Further discovery proceedings and discovery requests under this rule must be fulfilled within 48 hours of being prompted to do so by the Court, unless otherwise instructed by the Court.
 
 ### 5. Types of Cases
 
@@ -278,6 +289,8 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 - The date of when the Criminal Information was filed; and 
 - The signature of Crown Counsel representing the prosecution.
 
+**Rule 1.3.** Criminal Informations under this rule must be filed within 48 hours of being prompted to do so by the Court, unless otherwise instructed by the Court.
+
 ### 2. Court Appointed Attorney
 
 **Rule 2.1.** Defendants in criminal proceedings have the right to adequate legal representation by an attorney. 
@@ -310,8 +323,6 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 **Rule 4.3.** Plea deals must be submitted in Portable Document Format.
 
-**Rule 4.4.** The Court may reject a plea deal with good reason. 
-
 ### 5. Pretrial Motions and Pleadings Allowed
 
 **Rule 5.1.** The following pretrial motions and pleadings can be filed during a criminal proceeding:
@@ -328,6 +339,8 @@ The Provincial Court is the trial court in British Columbia with original jurisd
  
 **Rule 5.1.1.** The Court may permit the filing of motions and pleadings not listed in Rule 5.1 with good reason.
 
+**Rule 5.2.** Motions, pleadings, and their answers under this rule must be filed within 48 hours of being prompted to do so by the Court, unless otherwise instructed by the Court.
+
 ### 6. Discovery and Disclosure Requirements
 
 **Rule 6.1.** In a criminal proceeding, the Court may order a period of discovery *sua sponte* no less than 24 hours unless agreed on by both parties.
@@ -337,6 +350,10 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 **Rule 6.3.** all evidence submitted must be labeled for easy reading. 
 
 **Rule 6.4.** Witnesses or evidence may not be admitted after the discovery period has elapsed, outside a discovery period, and during the trial unless otherwise permitted by the Court for good reason.
+
+**Rule 6.5.** Discovery files under this rule must be filed within 48 hours of being prompted to do so by the Court, unless otherwise instructed by the Court.
+
+**Rule 6.6.** Further discovery proceedings and discovery requests under this rule must be fulfilled within 48 hours of being prompted to do so by the Court, unless otherwise instructed by the Court.
 
 ### 7. Formatting Requirements of Submitted Documents
 
