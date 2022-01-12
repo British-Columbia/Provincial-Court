@@ -22,6 +22,7 @@
   - [Summons](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#10-summons)
   - [Trial Procedures](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#11-trial-procedures)
   - [Verdict and its Execution](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#12-verdict-and-its-execution)
+  - [Expungement Proceedings](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#13-expungement-proceedings)
 - [**Rules of Criminal Procedure**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#rules-of-criminal-procedure)
   - [Criminal Information](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#1-criminal-information)
   - [Court Appointed Attorney](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Bin/Rules%20of%20Procedure.md#2-court-appointed-attorney)
@@ -227,6 +228,40 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 - The date of when the written judgement was issued;
 - The signature of Judge issuing the judgement; and
 - Anything else appropriate. 
+
+### Rule 13. Expungement Proceedings
+
+**Rule 13.1.** In all actions that are expungement applications pursuant to Rule 5.4, the applicant shall only be subject to Rule 13.
+
+**Rule 13.2.** Applicants for expungement shall not claim a tort against any person.
+
+**Rule 13.3.** All applicants for an expungement shall, within 48 hours of filing their applicantion or within 24 hours of being prompted by the Court, whichever shall come last, submit a statement no less than five sentences and no more than twenty detailing the reasons why this Court should grant the application. 
+
+**Rule 13.4.** The Crown may, within 48 hours of the applicant's submission of their statement, submit a statement in rebuttal no more than twenty sentences detailing the reasons why this Court should deny the application.
+
+**Rule 13.5.** The Court may, upon reciept of reasonable notice, grant reasonable extentions to the deadlines stupilated in Rule 13.3.
+
+**Rule 13.6.** Unless with good reason, the Court shall dismiss all applications for expungement if the applicant, within the last 30 days:
+- Has been charged with any offence;
+- Has been issued a fine for any offence;
+- Has been issued an absolute discharge;
+- Has been issued a conditional discharge;
+- Has been issued a suspended sentence;
+- Has been issued probation;
+- Has been issued a conditional sentence;
+- Has been issued a term of imprisonment;
+- Has been issued an intermittent sentence;
+- Has been ordered to pay restitution;
+- Was placed on bond; or
+- Has been involved in any other proceeding of a criminal nature in the province of British Columbia.
+
+**Rule 13.7.** Whereas the applicant is applying to expunge 5 counts or less, the Court may grant the application 48 hours after receiving the applicant's statement, or immediately after such reciept if the Crown indicates no contest of the application.
+
+**Rule 13.8.** Whereas the applicant is applying to expunge 6 counts or more, the Court must call the applicant and any intervenors to a hearing before making judgement.
+
+**Rule 13.9.** All applications for expungement which shall be denied or dismissed shall be dismissed without prejudice.
+
+**Rule 13.10.** All applications for expungement which shall be granted or denied shall require a notice of judgement, but shall not require reasons for judgement.
 
 ---
 
