@@ -1,5 +1,3 @@
-`RULES IN THIS FILE ARE NOT IN EFFECT`
-
 # Rules of Procedure for the Provincial Court of British Columbia
 
 ## Table of Contents
@@ -628,4 +626,4 @@ Where a witness makes a solemn affirmation, his evidence shall be taken and have
 
 ---
 
-**PUBLISHED DATE**
+**PUBLISHED JANUARY 13, 2022**
