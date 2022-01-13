@@ -17,7 +17,7 @@
   - [Third-Party Interactions and Requirements](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#7-third-party-interactions-and-requirements)
   - [Rules for the Service of Process](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#8-rules-for-the-service-of-process)
   - [Formatting Requirements of Submitted Documents](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#9-formatting-requirements-of-submitted-documents)
-  - [Summons](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#10-summons)
+  - [Notice of Appearance](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#10-notice-of-appearance)
   - [Trial Procedures](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#11-trial-procedures)
   - [Verdict and its Execution](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#12-verdict-and-its-execution)
   - [Expungement Proceedings](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#13-expungement-proceedings)
@@ -206,11 +206,11 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 
 **Rule 9.2.** All documents must comply with the requirement stipulated by the Court.
 
-### 10. Summons
+### 10. Notice of Appearance
 
-**Rule 10.1.** The Court, by a party or its own motion, may issue a Summons towards a party, witness or other appropriate entity to order them present themselves at a specified date and time and for what purpose.
+**Rule 10.1.** The Court, by a party or its own motion, may issue a Notice of Appearance towards a party, witness or other appropriate entity to order them present themselves at a specified date and time and for what purpose.
 
-**Rule 10.1.** A Summons must be served 48 hours before the time the person summoned is ordered to appear. 
+**Rule 10.1.** A Notice of Appearance must be served 48 hours before the time the person summoned is ordered to appear. 
 
 ### 11. Trial Procedures
 
