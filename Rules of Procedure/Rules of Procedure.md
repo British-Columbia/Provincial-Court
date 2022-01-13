@@ -44,7 +44,7 @@
   - [Affidavit Filing](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#8-affidavit-filing)
   - [Rules Against Hearsay](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#9-rules-against-hearsay)
   - [Incriminating Questions](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#10-incriminating-questions)
-- [**Rules of Appellate Procedure**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#rules-of-appellate-procedure)
+- [**Rules of Appellate Procedure**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Appellate%20Procedure.md)
 - [**Local Administrative Rules of Court**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#local-administrative-rules-of-court)
   - [Court Policy 2021-01](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#court-policy-2021-01)
   - [Court Policy 2021-02](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#court-policy-2021-02)
@@ -551,12 +551,6 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 **Rule 10.1.** No witness shall be excused from answering any question on the ground that the answer to the question may tend to criminate him, or may tend to establish his liability to a civil proceeding at the instance of the Crown or of any person.
 
 **Rule 10.2.** Where with respect to any question a witness objects to answer on the ground that his answer may tend to criminate him, or may tend to establish his liability to a civil proceeding at the instance of the Crown or of any person, and if but for this rule, or the Act of any provincial legislature, the witness would therefore have been excused from answering the question, then although the witness is by reason of this rule or the provincial Act compelled to answer, the answer so given shall not be used or admissible in evidence against him in any criminal trial or other criminal proceeding against him thereafter taking place, other than a prosecution for perjury in the giving of that evidence or for the giving of contradictory evidence.
-
----
-
-## Rules of Appellate Procedure
-
-*See documentation for the Court of Appeals for Rules of Appellate Procedure.*
 
 ---
 
