@@ -1,9 +1,6 @@
-# Department 8 Policies and Procedures 
+# Department 4 Policies and Procedures 
 
 **Vancouver, B.C.**
-
-**Revised: 
-<br>January 10, 2022**
 
 **Honourable koalaMedvedeva, 
 <br>Presiding**
@@ -14,7 +11,7 @@ Courtroom Clerk     None                                N/A
 Courtroom Bailiff   British Columbia Sheriff Service    N/A
 ```
 
-**Rule 1 - Conformity with Local Rules:** Unless otherwise indicated herein, Department 8 strictly adheres to the Rules of Procedure for the Provincial Court of British Columbia
+**Rule 1 - Conformity with Local Rules:** Unless otherwise indicated herein, Department 4 strictly adheres to the Rules of Procedure for the Provincial Court of British Columbia
 for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative Rules of Court.
 
 **Rule 2 - Contacts:** All parties or their counselors are required to contact the Courtroom Clerk, or in their absence, the presiding judge within 48 hours of their matter being docketed. The Courtroom Clerk is authorized to handle all scheduling, submissions of motions, logistics, and any other questions pertaining to the docketed case. 
@@ -33,7 +30,7 @@ for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative
 
 **Rule 6 - Scheduling:** The Court publishes a monthly agenda outlining dates and times when matters can be heard. The Courtroom Clerk will mediate scheduling directly between parties. Hearings must be scheduled within the prescribed agenda for the current month, and counselors are highly urged to schedule cases in the same week that they are docketed.
 
-**Rule 7 - Hearing Locations:** Department 8 utilizes both in-person hearings and virtual hearings. In-person hearings are always held at the Vancouver Law Courts. Virtual hearings are prescribed in the respective case chat. The Court frequently employs both variants of hearings, and you will be notified a reasonable amount of time prior to your hearing where the matter will be heard.
+**Rule 7 - Hearing Locations:** Department 4 utilizes both in-person hearings and virtual hearings. In-person hearings are always held at the Vancouver Law Courts. Virtual hearings are prescribed in the respective case chat. The Court frequently employs both variants of hearings, and you will be notified a reasonable amount of time prior to your hearing where the matter will be heard.
 
 **Rule 7.1 - Hearing Preferences:** For the convenience of the Court, sentencing hearings will typically occur in game. For trial hearings, virtual or in-game methods may be used. Counselors are able to make a request for a specific hearing location prior to the hearing taking place.
 
@@ -43,7 +40,7 @@ for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative
 
 **Rule 9 - Registrar of Actions:** The Courtroom Clerk provides, maintains, and updates a case specific registrar of actions for each matter docketed. The [registrar of actions](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/tree/main/Registrar%20of%20Actions) documents motions, appearances, dates and times, and other pertinent information. An action is not officially recognized by the Court until it is entered into the registrar of actions.
 
-**Rule 10 - Ruling Deposit:** In addition to the official ruling deposit of this Court, Department 8 also maintains separate documentation of rulings in [this Github folder](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/tree/main/Judgements). All rulings for any docketed matter will be filed here for the convenience of counselors and their clients. Verdicts and rulings are typically filed within 24 hours or the next available business day.
+**Rule 10 - Ruling Deposit:** In addition to the official ruling deposit of this Court, Department 4 also maintains separate documentation of rulings in [this Github folder](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/tree/main/Judgements). All rulings for any docketed matter will be filed here for the convenience of counselors and their clients. Verdicts and rulings are typically filed within 24 hours or the next available business day.
 
 **Rule 11 - Transcript Services:** See the Registrar or Clerk of Court for the Provincial Court for transcripts.
 
@@ -57,4 +54,4 @@ for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative
 
 ---
 
-**PUBLISHED JANUARY 10, 2022**
+**REVISED JANUARY 12, 2022**
