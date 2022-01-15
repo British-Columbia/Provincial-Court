@@ -86,7 +86,7 @@ The Provincial Court is the trial court in British Columbia with original jurisd
 - A description clearly stating the causes of action;
 - The relief being sought;
 - The date of when the Notice of Claim was filed; and 
-- The signature of the person filing the Notice of CLaim.
+- The signature of the person filing the Notice of Claim.
 
 **Rule 1.2.1.** If the Court cannot determine the reasoning for the lawsuit, it shall have the claims dismissed. 
 
