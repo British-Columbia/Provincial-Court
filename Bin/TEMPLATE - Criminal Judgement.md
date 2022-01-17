@@ -4,7 +4,7 @@
 	File Number:	00000
 	Registry:	Vancouver
 
-<<p align="center"><b><i>
+<p align="center"><b><i>
 				IN THE PROVINCIAL COURT OF BRITISH COLUMBIA
 </b></i>
 
