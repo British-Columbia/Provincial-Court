@@ -1,1 +1,0 @@
-## Warrants in this section have been served and are not active. [See here](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/tree/main/Warrants/Active) for active warrants or apply for one using [this form](https://docs.google.com/forms/d/1g_g7-zQcjHkon_UNkfv3Rz0zPRNg5kvxORyE4AWyUIs/edit).
