@@ -1,5 +1,0 @@
-- All warrants will be displayed here. 
-- Check status of a warrant [here](https://discord.com/channels/757606253722730727/931340165409013790).
-- Fill in [this form](https://docs.google.com/forms/d/1g_g7-zQcjHkon_UNkfv3Rz0zPRNg5kvxORyE4AWyUIs/edit)
-  - to apply for a warrant, or
-  - once the warrant has been served.
