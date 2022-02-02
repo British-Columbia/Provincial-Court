@@ -35,6 +35,7 @@
   - [Trial Procedures](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#11-trial-procedures-1)
   - [Verdict and its Execution](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#12-verdict-and-its-execution-1)
 - [**Rules of Evidence**](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#rules-of-evidence)
+  - [Rulings on Evidence](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#1-rulings-on-evidence)
   - [Preliminary Questions](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#2-preliminary-questions)
   - [Excluding Evidence](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#3-excluding-evidence)
   - [Relevance Questions](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/blob/main/Rules%20of%20Procedure/Rules%20of%20Procedure.md#4-relevance-questions)
