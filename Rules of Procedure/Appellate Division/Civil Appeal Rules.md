@@ -1,7 +1,5 @@
 # CIVIL APPEAL RULES in the Vancouver Municipal Court
 
-## Table of Contents
-
 ---
 
 ## Part 1 - Interpertation
