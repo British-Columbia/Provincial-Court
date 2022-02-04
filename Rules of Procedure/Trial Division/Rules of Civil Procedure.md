@@ -191,7 +191,7 @@
 - Has been issued an intermittent sentence;
 - Has been ordered to pay restitution;
 - Was placed on bond; or
-- Has been involved in any other proceeding of a criminal nature in the province of British Columbia.
+- Has been involved in any other proceeding of a criminal nature in the City of Vancouver.
 
 **Rule 13.7.** Whereas the applicant is applying to expunge 5 counts or less, the Court may grant the application 48 hours after receiving the applicant's statement, or immediately after such reciept if the Crown indicates no contest of the application.
 
