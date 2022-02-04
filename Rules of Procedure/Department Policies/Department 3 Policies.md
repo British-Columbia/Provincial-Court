@@ -11,8 +11,7 @@ Courtroom Clerk     None                                N/A
 Courtroom Bailiff   British Columbia Sheriff Service    N/A
 ```
 
-**Rule 1 - Conformity with Local Rules:** Unless otherwise indicated herein, Department 3 strictly adheres to the Rules of Procedure for the Provincial Court of British Columbia
-for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative Rules of Court.
+**Rule 1 - Conformity with Local Rules:** Unless otherwise indicated herein, Department 3 strictly adheres to the Rules of Procedure for the Vancouver Municipal Court for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative Rules of Court.
 
 **Rule 2 - Contacts:** All parties or their counselors are required to contact the Courtroom Clerk, or in their absence, the presiding judge within 48 hours of their matter being docketed. The Courtroom Clerk is authorized to handle all scheduling, submissions of motions, logistics, and any other questions pertaining to the docketed case. 
 
@@ -22,7 +21,7 @@ for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative
 
 **Rule 3 - Submission of Motions:** All motions are required to be submitted no less than 24 hours before a hearing. Motions that are submitted past this period will not be reviewed. All parties are given 48 hours to oppose any motion that is submitted before the court. All motions are to be submitted to the Courtroom Clerk through the case specific discord channel. Motions must also be CC’d to the District Court Clerk through the appropriate Court’s DiscordApp channel.
 
-**Rule 3.1 - Document Form:** All motions submitted to the Court must be compliant with the Rules of of Procedure for the Provincial Court of British Columbia. The Court requires that all be in portable document form (PDF). Motions submitted to the Courtroom Clerk through Google Docs will not be processed.
+**Rule 3.1 - Document Form:** All motions submitted to the Court must be compliant with the Rules of of Procedure for the Vancouver Municipal Court. The Court requires that all be in portable document form (PDF). Motions submitted to the Courtroom Clerk through Google Docs will not be processed.
 
 **Rule 4 - Discovery:** Discovery is prescribed by the Court upon request. Unless otherwise requested, discovery will be issued a cutoff exactly 24 hours before the agreed upon time for trial hearing. Any discovery submitted after the processing cutoff requires consent from both parties to become admitted. Discovery is submitted in the case channel.
 
@@ -38,11 +37,11 @@ for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative
 
 **Rule 8 - Ex Parte Communications:** Ex parte communications are strictly prohibited, except emergency cases in which direct communication is required with the opposing party or a clerk.
 
-**Rule 9 - Registrar of Actions:** The Courtroom Clerk provides, maintains, and updates a case specific registrar of actions for each matter docketed. The [registrar of actions](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/tree/main/Registrar%20of%20Actions) documents motions, appearances, dates and times, and other pertinent information. An action is not officially recognized by the Court until it is entered into the registrar of actions.
+**Rule 9 - Registrar of Actions:** The Courtroom Clerk provides, maintains, and updates a case specific registrar of actions for each matter docketed to documents motions, appearances, dates and times, and other pertinent information. An action is not officially recognized by the Court until it is entered into the registrar of actions.
 
-**Rule 10 - Ruling Deposit:** In addition to the official ruling deposit of this Court, Department 3 also maintains separate documentation of rulings in [this Github folder](https://github.com/koala4lif/Provincial-Court-of-British-Columbia/tree/main/Judgements). All rulings for any docketed matter will be filed here for the convenience of counselors and their clients. Verdicts and rulings are typically filed within 24 hours or the next available business day.
+**Rule 10 - Ruling Deposit:** In addition to the official ruling deposit of this Court, Department 3 also maintains separate documentation of rulings in [this Github folder](https://github.com/koala4lif/Vancouver-Municipal-Court/tree/main/Judgements). All rulings for any docketed matter will be filed here for the convenience of counselors and their clients. Verdicts and rulings are typically filed within 24 hours or the next available business day.
 
-**Rule 11 - Transcript Services:** See the Registrar or Clerk of Court for the Provincial Court for transcripts.
+**Rule 11 - Transcript Services:** See the Registrar or Clerk of Court for the Municipal Court for transcripts.
 
 **Rule 12 - Enforcement:** The Courtroom Clerk is responsible for the enforcement of all department policies. The Courtroom Clerk is also tasked with the moderation of the chambers to ensure that all communications are in accordance with the server rules.
 
@@ -54,4 +53,4 @@ for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative
 
 ---
 
-**REVISED JANUARY 27, 2022**
+**REVISED FEBRUARY 3, 2022**
