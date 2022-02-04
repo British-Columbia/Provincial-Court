@@ -1,4 +1,4 @@
-## RULES OF CRIMINAL PROCEDURE in the Vancouver Municipal Court
+# RULES OF CRIMINAL PROCEDURE in the Vancouver Municipal Court
 
 ---
 
