@@ -3,7 +3,7 @@
 </p>
 
 # Court Services Online 
-Electronic court registry for the Provincial Court of British Columbia
+Electronic court registry for the Vancouver Municipal Court
 
 ---
 
