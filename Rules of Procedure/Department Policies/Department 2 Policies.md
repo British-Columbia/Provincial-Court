@@ -39,7 +39,7 @@ Courtroom Bailiff   British Columbia Sheriff Service    N/A
 
 **Rule 9 - Registrar of Actions:** The Courtroom Clerk provides, maintains, and updates a case specific registrar of actions for each matter docketed to documents motions, appearances, dates and times, and other pertinent information. An action is not officially recognized by the Court until it is entered into the registrar of actions.
 
-**Rule 10 - Ruling Deposit:** In addition to the official ruling deposit of this Court, Department 3 also maintains separate documentation of rulings in [this Github folder](https://github.com/koala4lif/Vancouver-Municipal-Court/tree/main/Judgements). All rulings for any docketed matter will be filed here for the convenience of counselors and their clients. Verdicts and rulings are typically filed within 24 hours or the next available business day.
+**Rule 10 - Ruling Deposit:** In addition to the official ruling deposit of this Court, Department 2 also maintains separate documentation of rulings in [this Github folder](https://github.com/koala4lif/Vancouver-Municipal-Court/tree/main/Judgements). All rulings for any docketed matter will be filed here for the convenience of counselors and their clients. Verdicts and rulings are typically filed within 24 hours or the next available business day.
 
 **Rule 11 - Transcript Services:** See the Registrar or Clerk of Court for the Municipal Court for transcripts.
 
