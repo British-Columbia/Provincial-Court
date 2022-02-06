@@ -1,4 +1,4 @@
-# Department 3 Policies and Procedures 
+# Department 2 Policies and Procedures 
 
 **Vancouver, B.C.**
 
@@ -11,7 +11,7 @@ Courtroom Clerk     None                                N/A
 Courtroom Bailiff   British Columbia Sheriff Service    N/A
 ```
 
-**Rule 1 - Conformity with Local Rules:** Unless otherwise indicated herein, Department 3 strictly adheres to the Rules of Procedure for the Vancouver Municipal Court for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative Rules of Court.
+**Rule 1 - Conformity with Local Rules:** Unless otherwise indicated herein, Department 2 strictly adheres to the Rules of Procedure for the Vancouver Municipal Court for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative Rules of Court.
 
 **Rule 2 - Contacts:** All parties or their counselors are required to contact the Courtroom Clerk, or in their absence, the presiding judge within 48 hours of their matter being docketed. The Courtroom Clerk is authorized to handle all scheduling, submissions of motions, logistics, and any other questions pertaining to the docketed case. 
 
@@ -29,7 +29,7 @@ Courtroom Bailiff   British Columbia Sheriff Service    N/A
 
 **Rule 6 - Scheduling:** The Court publishes a monthly agenda outlining dates and times when matters can be heard. The Courtroom Clerk will mediate scheduling directly between parties. Hearings must be scheduled within the prescribed agenda for the current month, and counselors are highly urged to schedule cases in the same week that they are docketed.
 
-**Rule 7 - Hearing Locations:** Department 3 utilizes both in-person hearings and virtual hearings. In-person hearings are always held at the Vancouver Law Courts. Virtual hearings are prescribed in the respective case chat. The Court frequently employs both variants of hearings, and you will be notified a reasonable amount of time prior to your hearing where the matter will be heard.
+**Rule 7 - Hearing Locations:** Department  utilizes both in-person hearings and virtual hearings. In-person hearings are always held at the Vancouver Law Courts. Virtual hearings are prescribed in the respective case chat. The Court frequently employs both variants of hearings, and you will be notified a reasonable amount of time prior to your hearing where the matter will be heard.
 
 **Rule 7.1 - Hearing Preferences:** For the convenience of the Court, sentencing hearings will typically occur in game. For trial hearings, virtual or in-game methods may be used. Counselors are able to make a request for a specific hearing location prior to the hearing taking place.
 
@@ -53,4 +53,4 @@ Courtroom Bailiff   British Columbia Sheriff Service    N/A
 
 ---
 
-**REVISED FEBRUARY 3, 2022**
+**REVISED FEBRUARY 5, 2022**
