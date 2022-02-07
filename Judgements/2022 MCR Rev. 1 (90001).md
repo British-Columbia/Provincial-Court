@@ -40,7 +40,7 @@ Place of Hearing: **Vancouver, B.C.**
 - Declaration of state of emergency must expliclty indicate at which emergency level the declaration was made consistent with [Order in Council #010](https://drive.google.com/file/d/1RaIzoXCNFadoKog0hVfy2EULdqKVyyPB/view).
 - State of emergency at ER 3 does not permit law enforcement to compel individuals to remain indoors.
 - State of emergency at ER 3 does not permit law enforcement to subject individuals to a mandatory search or frisk.
-- Individuals cited or charged with an offence for noncompliance with an order to remain indoors or a search is eligible for expungement of said offence.
+- Individuals cited or charged with an offence for noncompliance with an order to remain indoors or a search are eligible for expungement of said offence.
 - State of emergency at ER 3 does not permit the mayor to restrict or specify which individuals or groups of individuals, including those in a government agency or emergency service, may or may not be on duty.
   
 ---
