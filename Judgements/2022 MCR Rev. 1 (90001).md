@@ -42,29 +42,7 @@ Place of Hearing: **Vancouver, B.C.**
 - State of emergency at ER 3 does not permit law enforcement to subject individuals to a mandatory search or frisk.
 - Individuals cited or charged with an offence for noncompliance with an order to remain indoors or a search are eligible for expungement of said offence.
 - State of emergency at ER 3 does not permit the mayor to restrict or specify which individuals or groups of individuals, including those in a government agency or emergency service, may or may not be on duty.
-  
----
 
-  I agree:
-
-  "The Honourable ElloNT"
-  
-  I agree:
-
-  "The Honourable koalaMedvedeva"
-  
-  I agree:
-
-  "The Honourable zli_c"
-  
-  I agree:
-
-  "The Honourable TacticalBlue66"
-  
-  I agree:
-
-  "The Honourable mallyvibes"
-  
 ---
   
   **Published February 6, 2022**
