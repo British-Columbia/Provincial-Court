@@ -33,7 +33,7 @@
 ### Appellate Jurisdiction
 
 **Rule 1.3 -** An appeal lies to the court:
-- **(a)** from an order of the Provincial Court or an order of a judge of that court; and
+- **(a)** from an order of the Municipal Court Trial Division or an order of a judge of that court; and
 - **(b)** in any matter where jurisdiction is given to it under a legislative enactment.
 
 ### How Cited
