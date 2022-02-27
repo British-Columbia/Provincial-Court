@@ -8,3 +8,7 @@ Electronic court registry for the Vancouver Municipal Court
 ---
 
 - [Discord invite](https://discord.gg/FmEEFEJWeC)
+
+---
+
+Maintained by The Right Honourable Cute E. Dropbear.
