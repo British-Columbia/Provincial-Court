@@ -1,12 +1,12 @@
 ## Judicial Ethics Code
 
-## 1. Foreword
+### 1. Foreword
 
 1. The ability of the legal system to function effectively depends in large part on the ethical standards of our judges. The adoption of a widely accepted ethical frame of reference ensures that judges and the public alike are aware of the principles by which judges should be guided. 
 
 2. The purpose of this document is to provide ethical guidance for judges.
 
-## 2. Judicial Independence 
+### 2. Judicial Independence 
 
 1. An independent judiciary is indispensable to impartial justice under law. Judges should, therefore, uphold and exemplify judicial independence in both its individual and institutional aspects.
 
@@ -18,7 +18,7 @@
 
 5. Judges should exhibit and promote high standards of judicial conduct so as to reinforce public confidence which is the cornerstone of judicial independence.
 
-## 3. Integrity
+### 3. Integrity
 
 1. Judges should strive to conduct themselves with integrity so as to sustain and enhance public confidence in the judiciary.
 
@@ -26,7 +26,7 @@
 
 3. Judges, in addition to observing this high standard personally, should encourage and support its observance by their judicial colleagues.
 
-## 4. Diligence
+### 4. Diligence
 
 1. Judges should be diligent in the performance of their judicial duties.
 
@@ -41,7 +41,7 @@
 6. Diligence in the performance of adjudicative duties includes striving for impartial and even-handed application of the law, thoroughness, decisiveness, promptness and the prevention of abuse of the process and improper treatment of witnesses.
 
 
-## 5. Equality
+### 5. Equality
 
 1. Judges should conduct themselves and proceedings before them so as to assure equality according to law.
 
@@ -53,7 +53,7 @@
 
 5. While doing whatever is possible to prevent unfair disadvantage to the unrepresented party, the judge must be careful to preserve his or her impartiality.
 
-## 6. Impartiality
+### 6. Impartiality
 
 1. Judges must be and should appear to be impartial with respect to their decisions and decision making. 
 
