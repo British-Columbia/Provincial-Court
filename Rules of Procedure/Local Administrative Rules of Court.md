@@ -54,14 +54,10 @@ The Appellate Division shall hear cases under its jurisdiction in panels of five
 
 Information taken from the [Vancouver Database](https://khizzer123.github.io/vancouver-database/) shall have the same effect as if it were taken from the Queen's Printer and is admissable in all matters before this court.
 
-```
-NOT IN EFFECT
-
 ### Court Policy 2022-06
 
 All persons seeking to file a claim under the tort of right to challenge disciplinary action must name, as defendants, only persons involved in the alleged breach of employee rights. Filings submitted with a government agency or a subsidiary of a government agency shall be considered to have been improperly filed.
-```
 
 ---
 
-**REVISED MARCH 6, 2022**
+**REVISED MARCH 7, 2022**
