@@ -1,18 +1,18 @@
-	Citation:       In the matter of an application by John Doe pursuant to Article 10 of the Constitution Act of 1867
-                	2022 BCPC 0
+	Citation:       In the matter of an application for expungement by John Doe
+                	2022 MCR 0
 	Date:		20220101
 	File Number:	30000
 	Registry:	Vancouver
 
-<p align="center"><b><i>IN THE PROVINCIAL COURT OF BRITISH COLUMBIA</b></i>
+<p align="center"><b><i>IN THE MUNICIPAL COURT OF VANCOUVER</b></i>
 
 ---
 
 <p align="center"><b>
 				IN THE MATTER OF
-<br><br>			AN APPLICATION BY JOHN DOE
-<br>				PURSUANT TO
-<br>				ARTICLE 10 OF THE CONSTITUTION ACT OF 1867
+<br><br>			AN APPLICATION FOR EXPUNGEMENT 
+<br>                            BY JOHN DOE
+<br>				
 
 ---
 
@@ -38,4 +38,4 @@ The Court orders the following counts to be sealed from the criminal record of t
 
 _
 	
-Provincial Court Judge
+Municipal Court Judge
