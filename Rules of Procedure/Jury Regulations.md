@@ -24,7 +24,7 @@ E) The presiding judge holds the the authority to order that a juror be excused 
 
 F) Each member sitting on the panel shall be sworn in by the clerk of the court
 
-F) The accused or prosecutor may challenge the jury panel only on the ground of partiality, or willful misconduct
+G) The accused or prosecutor may challenge the jury panel only on the ground of partiality, or willful misconduct
 
 H) Whereas a challenge is made on the aforementioned, the judge shall determine whether the alleged ground of challenge is true or not, and where he is satisfied that the alleged ground of challenge is true, he shall direct a new panel to be returned.
 
