@@ -12,7 +12,7 @@
 
 3. Anyone who doesn't meet the requirements in subsection 2 shall not be a juror.
 
-4. The presiding judge shall gather a list of the selected jurors; they are required to perform a background check.
+4. The presiding judge shall gather a list of the selected jurors and send it to both parties; they are required to perform a background check beforehand
 
 5. The selected jurors shall hold impartiality throughout the entirety of the case
 
