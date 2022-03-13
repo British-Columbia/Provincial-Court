@@ -36,7 +36,7 @@
 
 **Rule 15 -** The prosecutor or an accused is entitled to any number of challenges on the ground that;
   - a juror is not impartial;
-  - a juror has been convicted of an offence for which they were sentenced to a term of imprisonment on an indictable offence for which they were sentenced to a term of improsnment on an indctable charge and for which no pardon or record suspension is in effect;
+  - a juror has been convicted of an offence for which they were sentenced to a term of imprisonment on an indictable offence; which no pardon or record suspension is in effect;
   - a juror is not a Canadian citizen;
   - a juror is physically or mentally unable to perform properly the duties of a juror;
   - a juror does not speak fluent English
