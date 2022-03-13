@@ -27,22 +27,22 @@
 
 9. Whereas a challenge is made on the aforementioned, the judge shall determine whether the alleged ground of challenge is true or not, and where he is satisfied that the alleged ground of challenge is true, he shall direct a new panel to be returned.
 
-10. At the discretion of the judge, he/she may have 1-2 alternate jurors.
+10. The challenge shall be in writing and shall state that the person was partial or that he willfully misconducted himself.
 
-11. Alternate jurors shall attend at the commencement of the presentation of the evidence on the merits; if there is not a full jury present, they shall replace any absent juror.
+11. At the discretion of the judge, he/she may have 1-2 alternate jurors.
 
-12. An alternate juror who is not required as a substitute shall be excused.
+12. Alternate jurors shall attend at the commencement of the presentation of the evidence on the merits; if there is not a full jury present, they shall replace any absent juror.
 
-13. The challenge shall be in writing and shall state that the person was partial or that he willfully misconducted himself.
+13. An alternate juror who is not required as a substitute shall be excused.
 
 14. The accused shall be called on before the prosecutor is called on to declare whether the accused challenges the first juror for cause, and after that, both the prosecutor and accused shall be called on alternately for the remaining jurors.
 
 15. The prosecutor or an accused is entitled to any number of challenges on the ground that;
-   - a juror is not impartial;
-   - a juror has been convicted of an offence for which they were sentenced to a term of imprisonment on an indictable offense for which they were sentenced to a term of improsnment on an indctable charge and for which no pardon or record suspension is in effect;
-   - a juror is not a Canadian citizen;
-   - a juror is physically or mentally unable to perform properly the duties of a juror;
-   - a juror does not speak fluent English
+    - a juror is not impartial;
+    - a juror has been convicted of an offence for which they were sentenced to a term of imprisonment on an indictable offense for which they were sentenced to a term of improsnment on an indctable charge and for which no pardon or record suspension is in effect;
+    - a juror is not a Canadian citizen;
+    - a juror is physically or mentally unable to perform properly the duties of a juror;
+    - a juror does not speak fluent English
 
 16. No challenge for cause shall be allowed on a ground not mentioned in subsection 24
 
