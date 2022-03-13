@@ -41,9 +41,9 @@
 14. The prosecutor or an accused is entitled to any number of challenges on the ground that;
    a) a juror is not impartial;
    b) a juror has been convicted of an offence for which they were sentenced to a term of imprisonment on an indictable offense for which they were sentenced to a term of improsnment on an indctable charge and for which no pardon or record suspension is in effect;
-   a) a juror is not a Canadian citizen;
-   b) a juror is physically or mentally unable to perform properly the duties of a juror;
-   c) a juror does not speak fluent English
+   c) a juror is not a Canadian citizen;
+   d) a juror is physically or mentally unable to perform properly the duties of a juror;
+   e) a juror does not speak fluent English
 
 15. No challenge for cause shall be allowed on a ground not mentioned in subsection 24
 
