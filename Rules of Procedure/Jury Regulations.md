@@ -39,7 +39,7 @@
 
 15. The prosecutor or an accused is entitled to any number of challenges on the ground that;
   - a juror is not impartial;
-  - a juror has been convicted of an offence for which they were sentenced to a term of imprisonment on an indictable offense for which they were sentenced to a term of improsnment on an indctable charge and for which no pardon or record suspension is in effect;
+  - a juror has been convicted of an offence for which they were sentenced to a term of imprisonment on an indictable offence for which they were sentenced to a term of improsnment on an indctable charge and for which no pardon or record suspension is in effect;
   - a juror is not a Canadian citizen;
   - a juror is physically or mentally unable to perform properly the duties of a juror;
   - a juror does not speak fluent English
@@ -48,15 +48,15 @@
 
 17. If a challenge is made on a ground mentioned in subsection 15, the judge shall determine whether the alleged ground is true or not; if they judge is satisfied that it is true, the juror shall not be sworn in and dismissed
 
-18. On the application of the accused or prosecutor or on the judge's own motion, the judge may order the exclusion of all jurors, sworn and unsworn, from the court room until it is determined whether the ground of challenge is true if the judge is of the opinion that the order is necessary to preserve the impartiality of the jurors.
+18. On the application of the accused or prosecutor or on the judge's own motion, the judge may order the exclusion of all jurors, sworn and unsworn, from the court room until it is determined whether the ground of challenge is true; if the judge is of the opinion that the order is necessary to preserve the impartiality of the jurors.
 
-19. Where in the course of a trial the judge deems a juror should not, by reason of physical or mental illness or other reasonable cause, continue to act, the judge may discharge the juror
+19. Where in the course of a trial the judge deems a juror should not, by reason of physical or mental illness or other reasonable cause, continue to act in the capacity of a juror, the judge may discharge the juror
 
-20. The judge may select; if the jury has not yet begun to hear evidence; an alternate juror or individuals who were summoned to act as jurors and who are available at the court at the time to take the place of a juror.
+20. The judge may select; if the jury has not yet begun to hear evidence; an alternate juror or individuals who signed up to act as jurors and who are available at the court at the time to take the place of a juror.
 
-21. If the number of jurors is reduced below four (4), the judge may, with the consent of the parties, discharge the jurors and continue the trial without a jury and render a verdict.
+21. If the number of jurors is reduced below five (5), the judge may, with the consent of the parties, discharge the jurors and continue the trial without a jury and render a verdict.
 
-22. Every member of a jury whom discloses any information relating to the proceedings of the jury when it was absent from the courtroom that was not subsequently disclosed in open court is guilty of an offence punishment on summary conviction.
+22. Every member of a jury whom discloses any information relating to the proceedings of the jury when it was absent from the courtroom that was not subsequently disclosed in open court is guilty of an offence punishable on summary conviction.
 
 23. Whereas the judge is satisfied that the jury is unable to agree on its verdict and that further detention of the jury would be useless, he may in his discretion discharge that jury and direct a new jury to be empaneled during the sitting of the court, or may adjourn the trial on such terms.
 
