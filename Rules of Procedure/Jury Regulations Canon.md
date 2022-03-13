@@ -1,4 +1,4 @@
-## Jury Regulations
+## Jury Regulations Canon
 
 
 **Section 1. Jury Regulations**
