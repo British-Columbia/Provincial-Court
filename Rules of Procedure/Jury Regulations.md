@@ -3,7 +3,7 @@
 **Section 1. Jury Requirements**
 
 a) A juror shall not hold;
-   - No indcitable offenses
+   - No indictable offenses
    - No more than one (1) summary offense
    - No more than one (1) citation
 
