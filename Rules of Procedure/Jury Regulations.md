@@ -17,6 +17,7 @@ e) The presiding judge holds the the authority to order that a juror be excused 
    - Personal interest in the matter to be tried
    - Relationship with the presiding judge, the prosecutor, the accused, the counsel for the accused or a prospective witness
    - Personal hardship or any other reasonable cause that, in the opinion of the judge, warrants that the juror be excused.
+
 f) Each member sitting on the panel shall be sworn in by the clerk of the court
 g) The accused or prosecutor may challenge the jury panel only on the ground of partiality, or willful misconduct
 h) Whereas a challenge is made on the aforementioned, the judge shall determine whether the alleged ground of challenge is true or not, and where he is satisfied that the alleged ground of challenge is true, he shall direct a new panel to be returned.
