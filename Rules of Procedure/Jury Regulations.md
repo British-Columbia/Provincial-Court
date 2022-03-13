@@ -1,5 +1,6 @@
 ## Jury Regulations
 
+
 **Section 1. Jury Regulations**
 
 1. There shall be a total of six (6) jurors
