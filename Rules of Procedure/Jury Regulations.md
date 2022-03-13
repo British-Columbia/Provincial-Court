@@ -6,9 +6,9 @@
 1. There shall be a total of six (6) jurors
 
 2. A juror shall not hold;
-- No indictable offenses
-- No more than one (1) summary offense
-- No more than one (1) citation
+  - No indictable offenses
+  - No more than one (1) summary offense
+  - No more than one (1) citation
 
 3. Anyone who doesn't meet the requirements in subsection 2 shall not be a juror.
 
@@ -17,9 +17,9 @@
 5. The selected jurors shall hold impartiality throughout the entirety of the case
 
 6. The presiding judge holds the the authority to order that a juror be excused from the jury, whether or not any challenge has been made by either party, for the reasons of;
-- Personal interest in the matter to be tried
-- Relationship with the presiding judge, the prosecutor, the accused, the counsel for the accused or a prospective witness
-- Personal hardship or any other reasonable cause that, in the opinion of the judge, warrants that the juror be excused.
+  - Personal interest in the matter to be tried
+  - Relationship with the presiding judge, the prosecutor, the accused, the counsel for the accused or a prospective witness
+  - Personal hardship or any other reasonable cause that, in the opinion of the judge, warrants that the juror be excused.
 
 7. Each member sitting on the panel shall be sworn in by the registrar
 
@@ -38,11 +38,11 @@
 14. The accused shall be called on before the prosecutor is called on to declare whether the accused challenges the first juror for cause, and after that, both the prosecutor and accused shall be called on alternately for the remaining jurors.
 
 15. The prosecutor or an accused is entitled to any number of challenges on the ground that;
-- a juror is not impartial;
-- a juror has been convicted of an offence for which they were sentenced to a term of imprisonment on an indictable offense for which they were sentenced to a term of improsnment on an indctable charge and for which no pardon or record suspension is in effect;
-- a juror is not a Canadian citizen;
-- a juror is physically or mentally unable to perform properly the duties of a juror;
-- a juror does not speak fluent English
+  - a juror is not impartial;
+  - a juror has been convicted of an offence for which they were sentenced to a term of imprisonment on an indictable offense for which they were sentenced to a term of improsnment on an indctable charge and for which no pardon or record suspension is in effect;
+  - a juror is not a Canadian citizen;
+  - a juror is physically or mentally unable to perform properly the duties of a juror;
+  - a juror does not speak fluent English
 
 16. No challenge for cause shall be allowed on a ground not mentioned in subsection 24
 
