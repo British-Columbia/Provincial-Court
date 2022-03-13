@@ -44,9 +44,9 @@
   - a juror is physically or mentally unable to perform properly the duties of a juror;
   - a juror does not speak fluent English
 
-16. No challenge for cause shall be allowed on a ground not mentioned in subsection 24
+16. No challenge for cause shall be allowed on a ground not mentioned in subsection 15
 
-17. If a challenge is made on a ground mentioned in subsection 24, the judge shall determine whether the alleged ground is true or not; if they judge is satisfied that it is true, the juror shall not be sworn in and dismissed
+17. If a challenge is made on a ground mentioned in subsection 15, the judge shall determine whether the alleged ground is true or not; if they judge is satisfied that it is true, the juror shall not be sworn in and dismissed
 
 18. On the application of the accused or prosecutor or on the judge's own motion, the judge may order the exclusion of all jurors, sworn and unsworn, from the court room until it is determined whether the ground of challenge is true if the judge is of the opinion that the order is necessary to preserve the impartiality of the jurors.
 
