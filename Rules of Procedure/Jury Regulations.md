@@ -21,7 +21,7 @@
    - Relationship with the presiding judge, the prosecutor, the accused, the counsel for the accused or a prospective witness
    - Personal hardship or any other reasonable cause that, in the opinion of the judge, warrants that the juror be excused.
 
-7. Each member sitting on the panel shall be sworn in by the clerk of the court
+7. Each member sitting on the panel shall be sworn in by the registrar
 
 8. The accused or prosecutor may challenge the jury panel only on the ground of partiality, or willful misconduct
 
