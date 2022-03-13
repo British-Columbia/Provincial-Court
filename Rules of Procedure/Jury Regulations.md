@@ -2,7 +2,7 @@
 
 **Section 1. Jury Requirements**
 
-a) A juror shall not hold;
+1. A juror shall not hold;
    - No indictable offenses
    - No more than one (1) summary offense
    - No more than one (1) citation
@@ -18,9 +18,9 @@ a) A juror shall not hold;
 4. The selected jurors shall hold impartiality throughout the entirety of the case
 
 5. The presiding judge holds the the authority to order that a juror be excused from the jury, whether or not any challenge has been made by either party, for the reasons of;
-   - Personal interest in the matter to be tried
-   - Relationship with the presiding judge, the prosecutor, the accused, the counsel for the accused or a prospective witness
-   - Personal hardship or any other reasonable cause that, in the opinion of the judge, warrants that the juror be excused.
+   a) Personal interest in the matter to be tried
+   b) Relationship with the presiding judge, the prosecutor, the accused, the counsel for the accused or a prospective witness
+   c) Personal hardship or any other reasonable cause that, in the opinion of the judge, warrants that the juror be excused.
 
 6. Each member sitting on the panel shall be sworn in by the clerk of the court
 
@@ -39,15 +39,15 @@ a) A juror shall not hold;
 13. The accused shall be called on before the prosecutor is called on to declare whether the accused challenges the first juror for cause, and after that, both the prosecutor and accused shall be called on alternately for the remaining jurors.
 
 14. The prosecutor or an accused is entitled to any number of challenges on the ground that;
-   - a juror is not impartial;
-   - a juror has been convicted of an offence for which they were sentenced to a term of imprisonment on an indictable offense for which they were sentenced to a term of improsnment on an indctable charge and for which no pardon or record suspension is in effect;
-   - a juror is not a Canadian citizen;
-   - a juror is physically or mentally unable to perform properly the duties of a juror;
-   - a juror does not speak fluent English
+   a) a juror is not impartial;
+   b) a juror has been convicted of an offence for which they were sentenced to a term of imprisonment on an indictable offense for which they were sentenced to a term of improsnment on an indctable charge and for which no pardon or record suspension is in effect;
+   a) a juror is not a Canadian citizen;
+   b) a juror is physically or mentally unable to perform properly the duties of a juror;
+   c) a juror does not speak fluent English
 
-15. No challenge for cause shall be allowed on a ground not mentioned in subsection n
+15. No challenge for cause shall be allowed on a ground not mentioned in subsection 24
 
-16. If a challenge is made on a ground mentioned in subsection n, the judge shall determine whether the alleged ground is true or not; if they judge is satisfied that it is true, the juror shall not be sworn in and dismissed
+16. If a challenge is made on a ground mentioned in subsection 24, the judge shall determine whether the alleged ground is true or not; if they judge is satisfied that it is true, the juror shall not be sworn in and dismissed
 
 17. On the application of the accused or prosecutor or on the judge's own motion, the judge may order the exclusion of all jurors, sworn and unsworn, from the court room until it is determined whether the ground of challenge is true if the judge is of the opinion that the order is necessary to preserve the impartiality of the jurors.
 
