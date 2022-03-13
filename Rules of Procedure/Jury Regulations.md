@@ -10,9 +10,13 @@ a) A juror shall not hold;
 **Section 2. Jury Regulations**
 
 A) There shall be a total of six (6) jurors
+
 B) Anyone who doesn't meet the requirements in section 1, § a shall not be a juror.
+
 C) The presiding judge shall gather a list of the selected jurors; they are required to perform a background check.
+
 D) The selected jurors shall hold impartiality throughout the entirety of the case
+
 E) The presiding judge holds the the authority to order that a juror be excused from the jury, whether or not any challenge has been made by either party, for the reasons of;
    - Personal interest in the matter to be tried
    - Relationship with the presiding judge, the prosecutor, the accused, the counsel for the accused or a prospective witness
