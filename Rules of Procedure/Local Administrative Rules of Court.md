@@ -60,6 +60,22 @@ Information taken from the [Vancouver Database](https://khizzer123.github.io/van
 
 All persons seeking to file a claim under the tort of right to challenge disciplinary action must name, as defendants, only persons involved in the alleged breach of employee rights. Filings submitted with a government agency or a subsidiary of a government agency shall be considered to have been improperly filed.
 
+### Court Policy 2022-07
+
+
+Except when an exception is allowed with good reason or by other means or leave, all parties shall be confined to the following limitations as provided in the table below. Note that when a party is subject to two or more limitations, he is entitled to choose which one to be subjected to; but the presiding judge may choose to impose any other limitation if he sees fit; but in any case a party shall only be subject to one limitation for any allocation.
+
+| Allocation  | Time Limit (minutes) | Word Limit | Question Limit |
+| --- | --- | --- | --- |
+| Opening Statements  | 15 | 1500 | N/A |
+| Direct Examination | 60 | N/A | 30 |
+| Cross Examination | 60 | N/A | 30 |
+| Re-direct Examination | 30 | N/A | 15 |
+| Re-cross Examination | 30 | N/A | 15 |
+| Closing Statements | 30 | 3000 | N/A |
+| Motion argument | 30 | 3000 | N/A |
+| Motion rebuttal | 30 | 3000 | N/A |
+
 ---
 
-**REVISED MARCH 11, 2022**
+**REVISED MARCH 14, 2022**
