@@ -175,7 +175,9 @@
 
 **Rule 13.3.** All applicants for an expungement shall, within 48 hours of filing their applicantion or within 24 hours of being prompted by the Court, whichever shall come last, submit a statement no less than five sentences and no more than twenty detailing the reasons why this Court should grant the application. 
 
-**Rule 13.4.** The Crown may, within 48 hours of the applicant's submission of their statement or within 24 hours of being prompted by the Court, whichever shall come last, submit a statement in rebuttal no more than twenty sentences detailing the reasons why this Court should deny the application.
+~~**Rule 13.4.** The Crown may, within 48 hours of the applicant's submission of their statement or within 24 hours of being prompted by the Court, whichever shall come last, submit a statement in rebuttal no more than twenty sentences detailing the reasons why this Court should deny the application.~~
+
+[Suspended per [Motion #11](https://trello.com/c/oXd1nTKu/), March 17, 2022]
 
 **Rule 13.5.** The Court may, upon reciept of reasonable notice, grant reasonable extentions to the deadlines stupilated in Rule 13.3.
 
@@ -203,4 +205,4 @@
 
 ---
 
-**PUBLISHED FEBRUARY 3, 2022**
+**REVISED MARCH 17, 2022**
