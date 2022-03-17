@@ -9,7 +9,7 @@ In an expungement matter, the applicant or their designee must obtain a digital 
 
 The petitioner shall be allocated 72 hours from the filing of their petition to submit these materials with the Court. The Court may grant extentions to this with good reason.
 
-~~[Suspended following adoption of [Motion #3](https://trello.com/c/YGaPz1CV/185-3-motion-to-suspend-rule-requiring-petitioners-for-expungements-to-submit-proof-of-charges), February 18, 2022]~~
+~~[[Suspended per [Motion #3](https://trello.com/c/YGaPz1CV/185), February 18, 2022]~~
 
 [[Motion #3](https://trello.com/c/YGaPz1CV/185-3-motion-to-suspend-rule-requiring-petitioners-for-expungements-to-submit-proof-of-charges) is suspended, March 11, 2022]
 
