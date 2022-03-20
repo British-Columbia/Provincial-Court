@@ -1,3 +1,1 @@
-- For forms for the Appellate Division, please try to use the appropriate forms here as much as possible:
-  - https://www.bccourts.ca/Court_of_Appeal/practice_and_procedure/criminal_rules_forms.aspx
-  - https://www.bccourts.ca/Court_of_Appeal/practice_and_procedure/Civil_Rules_Forms.aspx
+N/A
