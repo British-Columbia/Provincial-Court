@@ -1,11 +1,11 @@
 	Citation:       R. v. Doe
-                	2022 BCPC 0
+                	2022 MCR 0
 	Date:		20220101
 	File Number:	20000
 	Registry:	Vancouver
 
 <p align="center"><b><i>
-				IN THE PROVINCIAL COURT OF BRITISH COLUMBIA
+				IN THE MUNICIPAL COURT OF VANCOUVER
 </b></i>
 
 ---
@@ -46,4 +46,4 @@ BETWEEN:
 
 _
 	
-Provincial Court Judge
+Municipal Court Judge
