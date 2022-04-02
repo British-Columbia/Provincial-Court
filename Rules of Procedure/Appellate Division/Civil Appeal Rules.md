@@ -108,6 +108,7 @@
 **Rule 3.1 -** An appeal of the following orders shall not require leave:
 - an order granting or denying relief in a civil matter where such relief is $1000 or more or includes injunctive relief;
 - an order dismissing a civil action; 
+- an order denying an application to disqualify the judge;
 - any order of a commission, board, panel, or other tribunal under a legislative enactment where such an order is to be treated as though the body which issued it was an inferior court; and
 - any other order, judgement, or decree issued in a civil matter not listed in Rule 2.1.
 
