@@ -58,9 +58,9 @@ B. It involved a shift from a provincial to a municipal government.
 
 The reason why this is important is that it takes away all and any previous parts of the government that this court can look into in order to base its decision off of. There is no law to "look" into. It is clear to the court that the founders intent was to completely gut and restart the government. Therefore, there is quite literally, 0 legal basis, even in real life, to look at when deciding this case.
 
-If, hypothetically, the legislature had to approve such document, what procedure would happen to elect the new legislature to approve it? The new government established, is a completely new government leaving no reminisce of the previous one, led at the time, by solely one person: the mayor. Therefore, it's only reasonable to hold that the Charter introduced by the former Mayor was passed into law, despite the fact that there was no legislative body to approved it. This court will also note that this is not a one size fits all solution. This, in the courts view, with no legal basis to work on, a reasonable decision for a complex and ridiculous situation.
+If, hypothetically, the legislature had to approve such document, what procedure would happen to elect the new legislature to approve it? The new government established, is a completely new government leaving no reminisce of the previous one, led at the time, by solely one person: the mayor. Therefore, it's only reasonable to hold that the Charter introduced by the former Mayor was passed into law, despite the fact that there was no legislative body to approved it. I will also note that this is not a one size fits all solution. This is, in my view, with no legal basis to work on, a reasonable decision for a complex and ridiculous situation.
 
-With that in mind, the Mayor was elected and sworn in while the former Charter was in effect and is therefore subject to the 3 month term limit that it prescribes.
+With that in mind, I would have ruled that the Mayor was elected and sworn in while the former Charter was in effect and is therefore subject to the 3 month term limit that it prescribes.
   
 ---
   
