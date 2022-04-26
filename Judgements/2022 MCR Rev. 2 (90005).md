@@ -27,7 +27,7 @@ Place of Hearing: **Vancouver, B.C.**
 
 ---
 
-  **In the matter of a review of the Mayor mallyvibes' term duration**
+  **In the matter of a review of Mayor mallyvibes' term duration**
   
 *By the Court:*
   
