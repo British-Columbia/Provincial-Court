@@ -53,8 +53,8 @@ The circumstances given to the Court is quite extraordinary, and frankly the cou
 
 There are two important things to note in the "shift" in government: 
 
-A. It was initiated by the founders
-B. It involved a shift from a provincial to a municipal government
+A. It was initiated by the founders.						<br>	
+B. It involved a shift from a provincial to a municipal government.
 
 The reason why this is important is that it takes away all and any previous parts of the government that this court can look into in order to base its decision off of. There is no law to "look" into. It is clear to the court that the founders intent was to completely gut and restart the government. Therefore, there is quite literally, 0 legal basis, even in real life, to look at when deciding this case.
 
