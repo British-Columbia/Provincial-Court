@@ -37,7 +37,7 @@ Place of Hearing: **Vancouver, B.C.**
   
 ---
   
-  **JOINT REASONS FOR JUDGEMENT**
+  **REASONS FOR JUDGEMENT**
   
   *Per* koalaMedvedeva (Doulx, zli_c, TacticalBlue66 concurring):
   
