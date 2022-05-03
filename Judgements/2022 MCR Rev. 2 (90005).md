@@ -39,7 +39,7 @@ Place of Hearing: **Vancouver, B.C.**
   
   **JOINT REASONS FOR JUDGEMENT**
   
-  *Per* koalaMedvedeva, Doulx, zli_c, TacticalBlue66:
+  *Per* koalaMedvedeva (Doulx, zli_c, TacticalBlue66 concurring):
   
 The circumstances of the matter is unprecedented, but correct standard to apply is to simply look at the enactment process and evaluate whether it is consistent with law. To this end, it is clear that the previous Vancouver City Charter was not lawfully enacted. Looking back to when the shift to a municipal government occurred, we see that a new mayor had been appointed by the developers: Mayor OhioAtm. Mayor OhioAtm drafted legislation that would become the charter, and his successor, Mayor Mpglasses, appeared to have passed the charter by himself despite there being no evidence that the procedures for enacting legislation had been changed by the transition to the municipal government. Proposed legislation cannot become legislation without a legislative body to enact it solely because there was no governing document outlining procedures for enactment. It is universally understood that the government does not have power to do anything unless it is granted that power; the government is not entitled to take any action simply because it is not specifically prohibited from taking that action. We can only conclude that the previous Vancouver City Charter was not lawfully enacted and is therefore to no effect.
 
