@@ -1,0 +1,1 @@
+- Note: To the extent that is inteded, references to the Attorney General, the Premier, and any officers of the provincial government within these rules shall refer to the City Attorney, the Mayor, and their counterparts in the municipal government.
