@@ -35,6 +35,8 @@ Place of Hearing: **Vancouver, B.C.**
   
 ---
   
+**JOINT REASONS FOR JUDGEMENT**
+
 *Per* ElloNT, koalaMedvedeva, turntable5000:
   
 Art. 5, s. 3(b) of the City Charter states that membership in a public body, including the City Council, is reserved for electors who are not convicted of a crime, not a judge, and not disqualified under the law. An elector is defined by art. 5, s. 3(a) of the City Charter as "[e]very resident of the city". Whereas Councillor Baconman1499 is not a resident and therefore not an elector, we find that the individual is not entitled to serve as a Councillor. 
