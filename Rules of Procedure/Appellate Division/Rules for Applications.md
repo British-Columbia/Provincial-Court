@@ -181,7 +181,7 @@ and includes the powers of the Provincial Court; and
 **Rule 3.10 -** Where the applicant fails to:
 - **(a)** diligently pursue his application; or
 - **(b)** reasonably and substantially comply with these rules,
-- 
+
 the respondent may apply to the court for an order that the application be dismissed or any other order that is considered just.
 
 **Rule 3.11 -** Where the registrar considers that the appellant has failed to diligently pursue the application or has failed to comply with these rules, he may refer the matter to the court or a panel judge.
