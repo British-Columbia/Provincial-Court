@@ -40,8 +40,6 @@ Place of Hearing: **Vancouver, B.C.**
 
   *Per* ElloNT (koalaMedvedeva, zli_c concurring):
 
-The appellant brought up a case that can only be considered as ridiculous as the Atlanta Falcons choking a 28-3 lead.
-
 **1. Authority of the Mayor**
   
 Sections III.3.a of the City Charter describes the responsibility of the mayor to ensure the faithful execution of laws within the Executive .Furthermore, sections III.1.a and III.3.b authorize the mayor full control within the Executive to ensure the faithful execution of such laws. These sections deliver a clear implication that the City Charter prescribes the authority for the mayor to institute necessary regulation for the Executive in order to fulfill its prescribed duties.
