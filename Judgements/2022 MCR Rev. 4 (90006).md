@@ -32,7 +32,7 @@ Place of Hearing: **Vancouver, B.C.**
 *Held:*
   
 - Workplace speech is not protected by s. 2(b) of the *Charter*.
-- The mayor has exclusive discretion dismiss his staff with cause.
+- The mayor has exclusive discretion to dismiss his staff with cause.
   
 ---
   
