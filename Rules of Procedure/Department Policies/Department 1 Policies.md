@@ -49,7 +49,7 @@ Courtroom Bailiff   British Columbia Sheriff Service    N/A
 
 **Rule 13.1 - Extentions:** Upon the applicant's written notification to the Courtroom Clerk at least 2 hours before the deadline stipulated in Rule 13, the presiding judge shall grant an extention to this deadline for a reasonable period.
 
-**Rule 14 - Inactivity or Inaction:** Any party or counsel for a party who, having been promoted by the Court with regards to any matter, makes no meaningful attempt at proceeding with the matter for a period of or exceeding 72 hours shall have said matter dismissed or disposed of by default.
+**Rule 14 - Inactivity or Inaction:** Any party or counsel for a party who, having been prompted by the Court with regards to any matter, makes no meaningful attempt at proceeding with the matter for a period of or exceeding 72 hours shall have said matter dismissed or disposed of by default.
 
 **Rule 14.1 - Where Witnesses Involved:** Any party or counsel for a party who, being responsible for examining a witness, during the course of his examination of the witness, makes no meaningful attempt at proceeding with his examination for a period of or exceeding 24 hours shall be assumed to have yielded his examination of said witness.
 
