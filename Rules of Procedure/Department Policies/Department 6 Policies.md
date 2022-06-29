@@ -11,7 +11,7 @@ Courtroom Clerk     None                                N/A
 Courtroom Bailiff   British Columbia Sheriff Service    N/A
 ```
 
-**Rule 1 - Conformity with Local Rules:** Unless otherwise indicated herein, Department 1 strictly adheres to the Rules of Procedure for the Vancouver Municipal Court for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative Rules of Court.
+**Rule 1 - Conformity with Local Rules:** Unless otherwise indicated herein, Department 6 strictly adheres to the Rules of Procedure for the Vancouver Municipal Court for Rules of Evidence, Civil and Criminal Procedure and the Local Administrative Rules of Court.
 
 **Rule 2 - Contacts:** All parties or their counselors are required to contact the Courtroom Clerk, or in their absence, the presiding judge within 48 hours of their matter being docketed. The Courtroom Clerk is authorized to handle all scheduling, submissions of motions, logistics, and any other questions pertaining to the docketed case. 
 
@@ -55,6 +55,10 @@ Courtroom Bailiff   British Columbia Sheriff Service    N/A
 
 **Rule 15 - Dismissal:** The presiding judge may dismiss an action or application if the movant fails to adhere to these Department Policies.  
 
+**Rule 16 - Respect:** Any direspect during the proceedings of my cases isn't tolerating and everyone is expected to be respectful.
+
+**Rule 17 - Message Tampering:** Deleting or editting your messages is strictly prohibitted and will not be taken lightly. 
+
 ---
 
-**REVISED JUNE 27, 2022**
+**REVISED JUNE 29, 2022**
