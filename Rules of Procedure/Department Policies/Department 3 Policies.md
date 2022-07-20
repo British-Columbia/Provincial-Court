@@ -1,4 +1,4 @@
-# Department 4 Policies and Procedures 
+# Department 3 Policies and Procedures 
 
 **Vancouver, B.C.**
 
