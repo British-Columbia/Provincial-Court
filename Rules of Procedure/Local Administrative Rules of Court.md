@@ -2,16 +2,14 @@
 
 ### Court Policy 2021-01
 
-In an expungement matter, the applicant or their designee must obtain a digital report of their criminal record or a copy thereof as follows
-- The digital report must contain applicant's entire criminal record, including all arrests and citations;
-- The digital report must be dated; and
-- The digital report must include the date and reason of the most recent arrest or citation.
+~~In an expungement matter, the applicant or their designee must obtain a digital report of their criminal record or a copy thereof as follows~~
+~~- The digital report must contain applicant's entire criminal record, including all arrests and citations;~~
+~~- The digital report must be dated; and~~
+~~- The digital report must include the date and reason of the most recent arrest or citation.~~
 
-The petitioner shall be allocated 72 hours from the filing of their petition to submit these materials with the Court. The Court may grant extentions to this with good reason.
+~~The petitioner shall be allocated 72 hours from the filing of their petition to submit these materials with the Court. The Court may grant extentions to this with good reason.~~
 
-~~[[Suspended per [Motion #3](https://trello.com/c/YGaPz1CV/185), February 18, 2022]~~
-
-[[Motion #3](https://trello.com/c/YGaPz1CV/185-3-motion-to-suspend-rule-requiring-petitioners-for-expungements-to-submit-proof-of-charges) is suspended, March 11, 2022]
+[Suspended per [Motion #3](https://trello.com/c/YGaPz1CV/185), rev. July 29, 2022]
 
 ### Court Policy 2022-01
 
@@ -62,7 +60,6 @@ All persons seeking to file a claim under the tort of right to challenge discipl
 
 ### Court Policy 2022-07
 
-
 Except when an exception is allowed with good reason or by other means or leave, all parties shall be confined to the following limitations as provided in the table below. Note that when a party is subject to two or more limitations, he is entitled to choose which one to be subjected to; but the presiding judge may choose to impose any other limitation if he sees fit; but in any case a party shall only be subject to one limitation for any allocation.
 
 | Allocation  | Time Limit (minutes) | Word Limit | Question Limit |
@@ -78,4 +75,4 @@ Except when an exception is allowed with good reason or by other means or leave,
 
 ---
 
-**REVISED MARCH 14, 2022**
+**REVISED JULY 29, 2022**
