@@ -49,7 +49,7 @@ Where a witness makes a solemn affirmation, his evidence shall be taken and have
 
 ### Court Policy 2022-04 
 
-The Appellate Division shall hear cases under its jurisdiction in panels of seven, five, or three judges, whichever largest is possible, comprised of the Chief Judge and Associate Chief Judge and other judges who shall not have been the trial judge. Once a panel is formed, the panel may vote, by a simple majority, to hear or not hear such a case. All decisions reached regarding the case must be agreed upon by at least three panel judges. The panel shall be dissolved once all matters have finally been disposed of.
+The Appellate Division shall hear cases under its jurisdiction in panels of seven, five, or three judges, whichever largest is possible, comprised of the Chief Judge and Associate Chief Judge and other judges who shall not have been the trial judge. Once a panel is formed, the panel may vote, by a simple majority, to hear or not hear such a case. All decisions reached regarding the case must be agreed upon by at least a majority of panel judges. The panel shall be dissolved once all matters have finally been disposed of.
 
 ### Court Policy 2022-05
 
