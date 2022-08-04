@@ -87,49 +87,49 @@ and includes the powers of the Provincial Court; and
 
 ### Refusing Relief
 
-**Rule 2.5 -** The court may not refuse to grant relief in a proceeding referred to in Rule 2.1 on the ground that the relief should have been sought in another proceeding referred to in Rule 2.1.
+**Rule 2.6 -** The court may not refuse to grant relief in a proceeding referred to in Rule 2.1 on the ground that the relief should have been sought in another proceeding referred to in Rule 2.1.
 
-**Rule 2.6 -** On an Application for Judicial Review of a statutory power of decision, the court may refuse relief if:
+**Rule 2.7 -** On an Application for Judicial Review of a statutory power of decision, the court may refuse relief if:
 - **(a)** the sole ground for relief established is a defect in form or a technical irregularity, and
 - **(b)** the court finds that no substantial wrong or miscarriage of panel judge has occurred.
 
-**Rule 2.7 -** If the decision has already been made, the court may make an order validating the decision despite the defect, to have effect from a time and on terms the court considers appropriate.
+**Rule 2.8 -** If the decision has already been made, the court may make an order validating the decision despite the defect, to have effect from a time and on terms the court considers appropriate.
 
 ### Interim Order
 
-**Rule 2.8 -** On an Application for Judicial Review, the court may make an interim order it considers appropriate until the final determination of the application.
+**Rule 2.9 -** On an Application for Judicial Review, the court may make an interim order it considers appropriate until the final determination of the application.
 
 ### Time Limit for Applications
 
-**Rule 2.9 -** An Application for Judicial Review is not barred by passage of time unless:
+**Rule 2.10 -** An Application for Judicial Review is not barred by passage of time unless:
 - **(a)** an enactment otherwise provides; and
 - **(b)** the court considers that substantial prejudice or hardship will result to any other person affected by reason of delay.
 
 ### Summary Disposition of Proceedings
 
-**Rule 2.10 -** On the application of a party to a proceeding for a declaration or injunction, the court may direct that any issue about the exercise, refusal to exercise or proposed or purported exercise of a statutory power be disposed of summarily, as if it were an application for judicial review.
+**Rule 2.11 -** On the application of a party to a proceeding for a declaration or injunction, the court may direct that any issue about the exercise, refusal to exercise or proposed or purported exercise of a statutory power be disposed of summarily, as if it were an application for judicial review.
 
 ### Service of Application
 
-**Rule 2.11 -** For an Application for Judicial Review in relation to the exercise, refusal to exercise, or proposed or purported exercise of a statutory power, the person who is authorized to exercise the power:
+**Rule 2.12 -** For an Application for Judicial Review in relation to the exercise, refusal to exercise, or proposed or purported exercise of a statutory power, the person who is authorized to exercise the power:
 - **(a)** must be served with the application; and
 - **(b)** may be a party to the application, at the person's option.
 
-**Rule 2.12 -** If 2 or more persons, whether styled a board or commission or any other collective title, act together to exercise a statutory power, they are deemed for the purpose of Rule 2.12 to be one person under the collective title, and service, if required, is effectively made on any one of those persons.
+**Rule 2.13 -** If 2 or more persons, whether styled a board or commission or any other collective title, act together to exercise a statutory power, they are deemed for the purpose of Rule 2.12 to be one person under the collective title, and service, if required, is effectively made on any one of those persons.
 
-**Rule 2.13 -** The Attorney General must be served with notice of an Application for Judicial Review.
+**Rule 2.14 -** The Attorney General must be served with notice of an Application for Judicial Review.
 
 ### Intervention by Attorney General
 
-**Rule 2.14 -** The Attorney General is entitled to be heard in person or by counsel at the hearing of the application.
+**Rule 2.15 -** The Attorney General is entitled to be heard in person or by counsel at the hearing of the application.
 
 ### Court May Order Record Filed
 
-**Rule 2.15 -** On an Application for Judicial Review of a decision made in the exercise or purported exercise of a statutory power of decision, the court may direct that any records, files, and transcripts of the proceeding, or any part of it, be filed in the court.
+**Rule 2.16 -** On an Application for Judicial Review of a decision made in the exercise or purported exercise of a statutory power of decision, the court may direct that any records, files, and transcripts of the proceeding, or any part of it, be filed in the court.
 
 ### Quo Warranto
 
-**Rule 2.16 -** If a person acts in an office in which the person is not entitled to act, the court may, under an Application for Judicial Review by the Attorney General, grant an injunction restraining the person from acting and may declare the office to be vacant.
+**Rule 2.17 -** If a person acts in an office in which the person is not entitled to act, the court may, under an Application for Judicial Review by the Attorney General, grant an injunction restraining the person from acting and may declare the office to be vacant.
 
 ## Application Proceedings
 
