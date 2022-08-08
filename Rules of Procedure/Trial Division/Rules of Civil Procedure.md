@@ -179,7 +179,7 @@
 
 [Suspended per [Motion #11](https://trello.com/c/oXd1nTKu/), March 17, 2022]
 
-**Rule 13.5.** The Court may, upon reciept of reasonable notice, grant reasonable extentions to the deadlines stupilated in Rule 13.3.
+**Rule 13.5.** The Court may, upon reciept of reasonable notice, grant reasonable extentions to the deadlines stipulated in Rule 13.3.
 
 **Rule 13.6.** Unless with good reason, the Court shall dismiss all applications for expungement if the applicant, within the last 30 days:
 - Has been charged with any offence;
