@@ -173,7 +173,7 @@
 
 **Rule 13.2.** Applicants for expungement shall not claim a tort against any person.
 
-**Rule 13.3.** All applicants for an expungement shall, within 48 hours of filing their applicantion or within 24 hours of being prompted by the Court, whichever shall come last, submit a statement no less than five sentences and no more than twenty detailing the reasons why this Court should grant the application. 
+**Rule 13.3.** All applicants for an expungement shall, within 48 hours of filing their application or within 24 hours of being prompted by the Court, whichever shall come last, submit a statement no less than five sentences and no more than twenty detailing the reasons why this Court should grant the application. 
 
 ~~**Rule 13.4.** The Crown may, within 48 hours of the applicant's submission of their statement or within 24 hours of being prompted by the Court, whichever shall come last, submit a statement in rebuttal no more than twenty sentences detailing the reasons why this Court should deny the application.~~
 
