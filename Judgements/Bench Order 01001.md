@@ -4,7 +4,7 @@
 	File Number:	01001
 	Registry:	Vancouver
 
-<p align="center"><b><i>IN THE MUNICIPAL COURT OF BRITISH COLUMBIA</b></i>
+<p align="center"><b><i>IN THE VANCOUVER MUNICIPAL COURT</b></i>
 
 ---
 
