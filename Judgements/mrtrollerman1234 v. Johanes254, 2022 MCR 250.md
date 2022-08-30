@@ -35,6 +35,7 @@ The claims and reliefs for False Arrest are denied.
 The claims and reliefs for Negligence are denied.
 	
 The claims and reliefs for Assault and Battery is granted and the defendant is ordered to write a 100 word appology letter to the petitioner within one week from this order.
+	
 ---
 	
 Kind_Yada <br>
