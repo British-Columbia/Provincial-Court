@@ -31,7 +31,9 @@ In this matter, defendant Johanes254 failed to file a Reply to the Notice of Cla
 The petitioner mrtrollerman1234 makes valid claims that makes one reasonably believe that Assault and Battery was in fact committed against the petitoner. The court though does believe that the defendant was justified in detaining the petitioner and therefore denies the claims and relief requested for the claims of negligence and false arrest.
 
 The claims and reliefs for False Arrest are denied.
+	
 The claims and reliefs for Negligence are denied.
+	
 The claims and reliefs for Assault and Battery is granted and the defendant is ordered to write a 100 word appology letter to the petitioner within one week from this order.
 ---
 	
