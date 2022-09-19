@@ -20,7 +20,7 @@
 <br> The Honourable Judge iiCryptic_LawMD
 
 Place of Hearing: **Vancouver, B.C.**
-<br>				Date of Hearing: **Augutst 8 - September 7, 2022**
+<br>				Date of Hearing: **August 8 - September 7, 2022**
 <br>				Date of Judgement: **September 14, 2022**
 	
 ---
