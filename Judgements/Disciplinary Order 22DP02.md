@@ -22,6 +22,7 @@
 Place of Hearing: **Vancouver, B.C.**
 <br>				Date of Hearing: **Augutst 8 - September 7, 2022**
 <br>				Date of Judgement: **September 14, 2022**
+	
 ---
 
   **In the matter of the disciplinary proceedings against Judge Kind_Yada**
@@ -32,4 +33,6 @@ Place of Hearing: **Vancouver, B.C.**
 - That Judge Kind_Yada is found to be not at fault for allegation 3; allegations sealed. 
 - That Judge Kind_Yada be issued a reprimand on record.
   
-  **Published September 18, 2022**
+---
+	
+**Published September 18, 2022**
