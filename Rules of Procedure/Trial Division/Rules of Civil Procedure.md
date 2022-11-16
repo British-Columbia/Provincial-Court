@@ -35,9 +35,7 @@
 - The date of when the Reply was filed; and 
 - The signature of the person filing the Reply.
 
-**Rule 1.7.** The notice of reply must be filed within a PDF document
-
-**Rule 1.8.** Notices of Claim and Replies must be filed within 48 hours of being prompted to do so by the Court, unless otherwise instructed by the Court
+**Rule 1.7.** Notices of Claim and Replies must be filed within 48 hours of being prompted to do so by the Court, unless otherwise instructed by the Court
 
 ### 2. Additional Pleadings
 
