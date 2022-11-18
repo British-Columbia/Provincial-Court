@@ -74,6 +74,16 @@ Except when an exception is allowed with good reason or by other means or leave,
 | Motion argument | 30 | 3000 | N/A |
 | Motion rebuttal | 30 | 3000 | N/A |
 
+### Court Policy 2022-08
+
+**Limitation** <br>
+- No person shall file a claim to this court that substantially alleges that moderation action taken against that person has infringed upon that person's legal rights. 
+- No person shall file a claim to this court for the purpose of disputing a moderation action taken against that person. 
+
+**Remedy** <br>
+- A party may apply to dismiss any claims that rely substantially on moderation action taken against that person under this policy. 
+- If the court is satisfied that a party's issue for trial with respect to a claim relies substantially on moderation action taken against that person, the court must pronounce judgement or dismiss that claim accordingly.
+
 ---
 
-**REVISED JULY 29, 2022**
+**REVISED NOVEMBER 17, 2022**
