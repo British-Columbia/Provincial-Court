@@ -81,8 +81,8 @@ Except when an exception is allowed with good reason or by other means or leave,
 - No person shall file a claim to this court for the purpose of disputing a moderation action taken against that person. 
 
 **Remedy** <br>
-- A party may apply to dismiss any claims that rely substantially on moderation action taken against that person under this policy. 
-- If the court is satisfied that a party's issue for trial with respect to a claim relies substantially on moderation action taken against that person, the court must pronounce judgement or dismiss that claim accordingly.
+- A party may apply to dismiss any claims that rely substantially on the allegation that moderation action was taken against that person, under this policy. 
+- If the court is satisfied that a party's issue for trial with respect to a claim relies substantially on the allegation that moderation action was taken against that person, the court must pronounce judgement or dismiss that claim accordingly.
 
 ---
 
