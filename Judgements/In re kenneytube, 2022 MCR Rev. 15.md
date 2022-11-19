@@ -29,7 +29,7 @@ Place of Hearing: **Vancouver, B.C.**
   
 *By the Court:*
   
-- Verbal notice must be given to any person within an area that consitute trespass within the meaning of the *Government Property Protection Act* before the government takes action to enforce s. 2(g) of the *Government Property Protection Act* or any analogous provisions.
+- Verbal notice must be given to any person within an area that consitutes trespass within the meaning of the *Government Property Protection Act* before the government takes action to enforce s. 2(g) of the *Government Property Protection Act* or any analogous provisions.
       
 ---
   
