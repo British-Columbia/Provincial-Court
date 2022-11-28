@@ -1,5 +1,5 @@
 	Title: 		Court Policy 2022-08 addition to the Local Administrative Rules of Court
-	Effective: 	20221127
+	Effective: 	20221117
 	Authority: 	Vancouver Charter, art. 4, s. 2(a)
 
 Amended Rule: [Local Administrative Rules of Court](https://github.com/koala4lif/Vancouver-Municipal-Court/edit/main/Rules%20of%20Procedure/Local%20Administrative%20Rules%20of%20Court.md)
