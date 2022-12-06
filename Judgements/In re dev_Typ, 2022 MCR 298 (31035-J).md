@@ -27,7 +27,7 @@ BETWEEN:
 </b>
 
 <br>				Counsel for the Applicant: ***Pro se***
-<br>				Counsel for the Respondent: ***Hecxtro***
+<br>				Counsel for the Respondent: **Hecxtro**
 <br>				Place of Hearing: **Vancouver, B.C.**
 <br>				Date of Hearing: **December 3, 2022**
 <br>				Date of Judgement: **December 4, 2022**
@@ -36,7 +36,7 @@ BETWEEN:
 
 **BACKGROUND**
 
-The application for a writ of *mandamus* and the notice of claim was jointly filed by applicant dev_Typ on the basis of violation of rights and negligence. Violation of rights is derived from the *Revised Employee Rights By-law* and negligence is a claimable tort derived from the *Torts Act*. The disciplinary action issued to the applicant has since been revoked, and the applicant does not claim as remedy the reversal of any disciplinary records. In my view, this lack of injury prevents the applicant from pursuing a civil claim under s. 2(f) of the *Revised Employee Rights By-law*. In this case, applicant alleges additional injury in the form of violation of rights and negligence by respondents. Applicant claims that he is entitled to a writ of *mandamus* to direct the respondents to create policies for the Human Resources Complaints Commission (the “Commission”) and a review of all terminations issued by the Commission. I agree that such an order can only be issued by way of *mandamus*. Respondents Shellykeepers and the Royal Canadian Mounted Police now moves to dismiss the writ of *mandamus* and the notice of claim.
+The application for a writ of *mandamus* and the notice of claim was jointly filed by applicant dev_Typ on the basis of violation of rights and negligence. Violation of rights is derived from the *Revised Employee Rights By-law* and negligence is a claimable tort derived from the *Torts Act*. The disciplinary action issued to the applicant has since been revoked, and the applicant does not claim as remedy the reversal of any disciplinary records. In my view, this lack of injury prevents the applicant from pursuing a civil claim under s. 2(f) of the *Revised Employee Rights By-law*. In this case, applicant alleges additional injury in the form of violation of rights and negligence by respondents. Applicant claims that he is entitled to a writ of *mandamus* to direct the respondents to create policies for the Human Resources Complaints Commission (the “Commission”) and a review of all terminations issued by the Commission. I agree that such an order can only be issued by way of *mandamus*. Respondents Shellykeepers and the Royal Canadian Mounted Police now moves to dismiss the application for a writ of *mandamus* and the notice of claim.
 
 ***MANDAMUS* PRINCIPLES**
 
