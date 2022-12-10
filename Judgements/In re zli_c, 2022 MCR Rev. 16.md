@@ -31,7 +31,7 @@ Place of Hearing: **Vancouver, B.C.**
   
 *Held:*
   
-- The Motion of No Confidence against Associate Judge zli_c was lawfully passed;
+- The Motion of No Confidence against Associate Chief Judge zli_c was lawfully passed;
 - The entire Council isn't included to determine the threshold of a supermajority concurrence by definition of the Vancouver City Charter. 
   
 ---
