@@ -24,20 +24,22 @@ Party v. Party 202# MCR #
                   ^Year ^Number counting up from 1, starting with the first case filed in a given calendar year
 ```
 
-A docket number shall also be assigned to each case as follows
-- Formatted as `A` `B` `CDE` where
-  - `A` is a one-digit number for the case type
+~~A docket number shall also be assigned to each case as follows
+~~- Formatted as `A` `B` `CDE` where
+  ~~- `A` is a one-digit number for the case type
     - `1` for civil matters;
     - `2` for criminal matters;
     - `3` for applications and all other matters in the Trial Division; and
     - `4` for all matters in the Appellate Division.
-  - `B` is a one-digit number for the department/seat of the judge assigned to the case. If the assignment changes, the `B` value does not need to. There are nine departments/seats in the Municipal Court.
-  - `CDE` is a three-digit number that simply counts up 1 for every case, starting with `001`. This number does not reset; if a judge leaves office the count shall pause; the next judge shall continue the count where it was paused.
+  ~- `B` is a one-digit number for the department/seat of the judge assigned to the case. If the assignment changes, the `B` value does not need to. There are nine departments/seats in the Municipal Court.
+  ~- `CDE` is a three-digit number that simply counts up 1 for every case, starting with `001`. This number does not reset; if a judge leaves office the count shall pause; the next judge shall continue the count where it was paused.
 
-When a judge publishes a court file, that file shall be assigned a file number as follows
-- Formatted as `ABCDE`-`X` where
-  - `ABCDE` is a five-digit docket number.
-  - `X` is a one-digit number that simply counts up 1 for every file published in each case, starting with `1`.
+~~When a judge publishes a court file, that file shall be assigned a file number as follows
+~- Formatted as `ABCDE`-`X` where
+  ~- `ABCDE` is a five-digit docket number.
+  ~- `X` is a one-digit number that simply counts up 1 for every file published in each case, starting with `1`.
+
+[Suspended per [Motion #21](https://trello.com/c/7Se4oYVy), rev. May 21, 2023]
 
 ### Court Policy 2022-03 
 
