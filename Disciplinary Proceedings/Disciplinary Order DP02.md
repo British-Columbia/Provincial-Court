@@ -1,7 +1,7 @@
 	Citation:       In re Kind_Yada
-                	Disciplinary Order 22DP02
+                	Disciplinary Order DP02
 	Date:		20220918
-	File Number:	22DP02
+	File Number:	DP02
 	Registry:	Vancouver
 
 <p align="center"><b><i>
