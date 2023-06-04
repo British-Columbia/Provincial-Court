@@ -27,11 +27,7 @@
 
 **Ordered:**
 
-- That Judge Kind_Yada is to be not at fault as to allegations 1 through 6, and 8 on the complaint; allegations sealed.
-  
-- That Judge Kind_Yada is to be at fault as to allegation 7 on the complaint; for appointing an ineligible person who is not a peace officer to act as bailiff or otherwise as an officer of the court.
-
-- That Judge Kind_Yada be issued a notice of contravention.
+- That Judge Kind_Yada be issued a notice of contravention for appointing an ineligible person who is not a peace officer to act as bailiff or otherwise as an officer of the court.
 
 ---
 
