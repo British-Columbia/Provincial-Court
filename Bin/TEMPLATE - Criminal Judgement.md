@@ -11,7 +11,7 @@
 ---
 
 BETWEEN:
-<p align="center"><b>		REGINA				</b>
+<p align="center"><b>		REX				</b>
 <p align="right">		CROWN
 <p>				AND:
 <p align="center"><b>		JOHN DOE			</b>
