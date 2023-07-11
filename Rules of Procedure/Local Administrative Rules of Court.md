@@ -71,6 +71,22 @@ Except when an exception is allowed with good reason or by other means or leave,
 - A party may apply to dismiss any claims that rely substantially on the allegation that moderation action was taken against that person, under this policy. 
 - If the court is satisfied that a party's issue for trial with respect to a claim relies substantially on the allegation that moderation action was taken against that person, the court must pronounce judgement or dismiss that claim accordingly.
 
+### Court Policy 2023-01
+
+Masters are responsible for judicial, quasi-judicial and judicial administration matters; liaison with court administrators, members of the Bar and public; and procedural direction to Court registry staff. 
+
+Masters are appointed by the Chief Judge and subject to dismissal at the discretion of the court.
+
+Unless appointed as a judge, masters are subject to the limitations set out in this policy and those given by the Chief Judge. 
+
+A Master has the same jurisdiction under any enactment or the Rules of Court as a Judge of the Court sitting in Chambers if, in respect of any matter, the Chief Judge has given a direction that a Master shall exercise that jurisdiction. 
+
+A Master has the same jurisdiction under any enactment or the Rules of Court as a Judge of the Court sitting in Chambers if, in respect of any judicial hearings in Chambers relating to interlocutory and interim applications made in a proceeding in the court, a Judge presiding has given a direction that a Master shall exercise that jurisdiction. 
+
+A Master has the same jurisdiction under any enactment or the Rules of Court as a Judge of the Court sitting in Chambers if the matter is in the nature of Trial Management, Case Planning, and Judicial Case Conferences. 
+
+A Master has all the jurisdiction of a Registrar of the Court, and in addition to his or her primary function can also preside at and conduct registrars hearings, inquiries, accountings, assessments, review of costs, and other matters imposed by statute or the Rules of Court upon a Registrar of the Court, or referred by a Judge or other Master of the Court.
+
 ---
 
-**REVISED NOVEMBER 17, 2022**
+**REVISED JULY 10, 2023**
