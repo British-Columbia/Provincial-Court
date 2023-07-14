@@ -4,4 +4,4 @@
 
 ---
 
-A Master may exercise jurisdiction to assign, hear, and adjudicate applications for expungement under the supervision of any Judge.
+A Master may exercise jurisdiction to assign, hear, and adjudicate applications for expungement, warrants to search, and warrants to arrest under the supervision of any Judge.
