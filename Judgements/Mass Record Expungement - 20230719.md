@@ -25,7 +25,7 @@
 
 **JUDGEMENT**
  
-The Court orders the following from the applicant iiGHero_Law:
+The Court orders the following from the applicant iiGhero_Law:
   - [x] Expungement granted under the conditions:
      - Must Apply to the the British Columbia Sheriffs Service and/or Vancouver Police Department; and
      - Must not commit any crimes within a six (6) month time frame.
