@@ -64,7 +64,7 @@ The Court orders the following from the applicant hermertred:
   - [x] Expungement granted in full.
 
 The Court orders the following from the applicant iiDiehard_Law:
-  - [x] Expungement granted under the conditions:
+  - [x] Expungement granted under the condition:
      - Three (3) months of service from this day in the British Columbia Ambulance Service.
 
 ---
