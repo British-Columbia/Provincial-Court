@@ -39,7 +39,7 @@ BETWEEN:
 
 [2] We must first review if this motion is suitable and proper for the court to rule on. Under Rule 3.2.1. of the Rules of Civil Procedure, it gives the court discretion to allow motions to be submitted that are not explicitly stated. This court has held through precedent that this is an acceptable motion, though when filed in good faith. We have seen from times that lawyers will request contempt on opposing parties or people involved for petty and unjust reasons. 
 
-[3] The defendants allege that the petitioner should be held in contempt of court for lying on a sworn document due to claiming that administrative leave is a disciplinary action. Whether or not administrative leave is disciplinary action, the petitioner filed the notice of claim in good faith and had no intention to intentionally mislead anyone as required by the Vancouver Criminal Code under perjury. Holding in the petitioner in contempt for allegations alleged in the notice of claim would hold a bad precedent going forward. 
+[3] The defendants allege that the petitioner should be held in contempt of court for lying on a sworn document due to claiming that administrative leave is a disciplinary action. Whether or not administrative leave is disciplinary action, the petitioner filed the notice of claim in good faith and had no intention to intentionally mislead anyone as required by the Vancouver Criminal Code under perjury. Holding the petitioner in contempt for allegations alleged in the notice of claim would hold a bad precedent going forward. 
 
 **REASONS FOR RULING**
 
