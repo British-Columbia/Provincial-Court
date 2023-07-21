@@ -1,4 +1,4 @@
-	Citation:       Loveanaboy v. Royal Mounted Police et al.
+	Citation:       Loveanaboy v. Royal Canadian Mounted Police et al.
                 	2023 MCR 137
 	Date:		20232107
 	Registry:	Vancouver
@@ -13,7 +13,7 @@ BETWEEN:
 <p align="center"><b>		Loveananboy			</b>
 <p align="right">		PETITIONER
 <p>				AND:
-<p align="center"><b>		Royal Mounted Police et al.		</b>
+<p align="center"><b>		Royal Canadian Mounted Police et al.		</b>
 <p align="right">		DEFENDANT
 
 ---
