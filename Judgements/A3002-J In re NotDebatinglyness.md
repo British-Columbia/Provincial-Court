@@ -25,9 +25,9 @@
 
 **ORAL REASONS FOR JUDGEMENT**
 
-While I'm not convinced that the person who made the statement was the accused, there is probable grounds to believe that it was. Tdentity is therefore established.
+While I'm not convinced that the person who made the statement was the accused, there is probable grounds to believe that it was. Identity is therefore established.
 
-I accept that since the accused took no step to commit the initial offence, whether or not the accused made a mistake of fact or actually felt threatened is irrelevant. an analysis of self defence as an affirmative defence under s. 6.05 is therefore also irrelevant.
+I accept that since the accused took no step to commit the initial offence, whether or not the accused made a mistake of fact or actually felt threatened is irrelevant. An analysis of self defence as an affirmative defence under s. 6.05 is therefore also irrelevant.
 
 I also accept that the accused probably saw a peace officer on the scene of the offence and was therefore required by law to report the offence. However, neither the applying officer's affidavit nor his evidence could establish whether or not the accused did in fact make a report. What is clear is that the applying officer could not see most of the accused's messages.
 
