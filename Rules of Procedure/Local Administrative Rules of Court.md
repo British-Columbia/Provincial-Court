@@ -87,7 +87,7 @@ A Master has the same jurisdiction under any enactment or the Rules of Court as 
 
 A Master has all the jurisdiction of a Registrar of the Court, and in addition to his or her primary function can also preside at and conduct registrars hearings, inquiries, accountings, assessments, review of costs, and other matters imposed by statute or the Rules of Court upon a Registrar of the Court, or referred by a Judge or other Master of the Court.
 
-### Court Policy 2023-01
+### Court Policy 2023-02
 
 Warrants, whether they be a search or an arrest warrant shall last a period of sixty (60) days from the day that they are issued.
 
