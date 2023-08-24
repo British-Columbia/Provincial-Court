@@ -7,7 +7,7 @@
 
 **Department Courtroom Staff:**
 ```
-Courtroom Clerk     None                                N/A
+Courtroom Clerk     chewalicious                        N/A
 Courtroom Bailiff   British Columbia Sheriff Service    N/A
 ```
 
