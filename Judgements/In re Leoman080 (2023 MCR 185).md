@@ -41,7 +41,7 @@ The criminal offence in question is Illegal Discharge of a Firearm (§6.04), whi
     
  2. Illegal discharge of a firearm shall be the act of intentionally discharging a firearm without legal means to do so, pursuant to current/future legislation.
 
-The term "intent" as the relevant general law contextualises is to suggest that the malefactor must knowingly discharge a firearm without legal means to do so, although making a hard-and-fast definition is very unworkable and vague, therefore, it is up to the particular judge trying the case to individualise its definition as opposed to a narrower concept that is unlawful intent. ***see R v. Heywood, [1994] 3 SCR 761***
+The term "intent" as the relevant general law contextualises is to suggest that the malefactor must knowingly discharge a firearm without legal means to do so, although making a hard-and-fast definition is very unworkable and vague, therefore, it is up to the particular judge trying the case to individualise its definition as opposed to a narrower concept that is unlawful intent. ***See R v. Heywood, [1994] 3 SCR 761***
 
 **INDIVIDUAL DEFINITION; HEYWOOD AUTHORITY**
 
