@@ -31,7 +31,7 @@ LeoMan080 has been issued an Arrest Warrant (AW20230907) for Illegal discharge o
 
 **STANDARD OF REVIEW; WARRANTS**
 
-Arrest warrants are adjudged and distributed based on the legal standard of probable cause, which means that there must be evidence that a crime has been committed in order for am arrest warrant to be sufficient. 
+Arrest warrants are adjudged and distributed based on the legal standard of probable cause, which means that there must be evidence that a crime has been committed in order for an arrest warrant to be sufficient. 
 
 **CRIMINAL INTENT; CRIME IN QUESTION**
 
