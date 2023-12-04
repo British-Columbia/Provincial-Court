@@ -44,12 +44,17 @@ Judicial review of administrative decisions, such as adjudications of the Depart
 - The Department of Business Affairs is entitled to sanction a business for the conduct of its individual employees notwithstanding whether that conduct was or was not within the control of the business owner. (See generally *Commercial Transportation Act*, RSBC 1996, c. 58; see also authority of Commercial Vehicle Safety and Enforcement agency to fine companies as a whole due to its operators violating height limits for commercial vehicles).
 - No law requires the Department of Business Affairs to take statements under oath. The President of the Department of Business Affairs is entitled to determine the appropriate venue for taking statements. A statement taken in a setting different than that directed by the President is generally not sufficient to sustain a procedural violation for which remand is the appropriate relief without a showing of palpable and overriding error.
 - Suggestions that the adjudicators of the Department of Business Affairs were prejudiced were not substantiated. Appearance of bias or actual bias is not a reverse-onus claim.
--  The Government decision is reasonable because the appellant has not established an objective form of reasonableness, and has not proven that their decision is within an unreasonable action.
-- The appellant gives no actual procedure for which the review is based. So we cannot accurately decide whether the punishment is acceptable or not.
 
 **It is hereby ordered that:**
 - The adjudication of the Department of Business Affairs, being reasonable in the whole of the circumstances, is sustained.
 - Policy 1.31 of the Department of Business Affairs, for lack of jurisdiction, is declared to be of no force or effect.
+
+---
+
+*iiCryptic_LawMD J. concurring:*
+
+-  The Government decision is reasonable because the appellant has not established an objective form of reasonableness, and has not proven that their decision is within an unreasonable action.
+- The appellant gives no actual procedure for which the review is based. So we cannot accurately decide whether the punishment is acceptable or not.
   
 ---
 	
