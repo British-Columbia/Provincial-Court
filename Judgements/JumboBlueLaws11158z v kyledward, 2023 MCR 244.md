@@ -42,7 +42,7 @@ BETWEEN:
 
 **CONCLUSION**
 
-[3] The Defendant shall be ordered to reinstate the Plaintiff to their previous position, as Chief of Staff within the Vancouver Coastal Health Authority. The Defendant shall be ordered to pay the Plaintiff 10,000 CAD.
+[3] The Defendant shall be ordered to reinstate the Plaintiff to their previous position, as Chief of Staff within the Vancouver Coastal Health Authority. The Defendant shall be ordered to pay the Plaintiff 10,000 CAD. Any additional monetary relief shall be up to the Defendant, due to the discrepancy in the Notice of Reply.
 
 The Defendant has until January 16th, 2024, at 2:00 PM Pacific Standard Time, or 10:00 PM Coordinated Universal Time.
 	
