@@ -25,7 +25,7 @@ BETWEEN:
 
 Place of Hearing: **Vancouver, B.C.**
 <br>				Date of Hearing: **December 17, 2023 - December 19, 2023**
-<br>				Date of Judgement: **January 29th, 2024**
+<br>				Date of Judgement: **January 26th, 2024**
 	
 ---
 
