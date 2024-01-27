@@ -20,7 +20,7 @@ BETWEEN:
 	
 **Heard before:**
 <br> The Honourable Judge iiCryptic_LawMD
-<br> The Honourable Judge XxKenPlays
+<br> The Honourable Judge xXKenPlays
 <br> The Honourable Judge Mpglasses
 
 Place of Hearing: **Vancouver, B.C.**
