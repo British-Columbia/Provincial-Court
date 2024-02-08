@@ -1,4 +1,4 @@
-# RULES OF CRIMINAL PROCEDURE in the Vancouver Municipal Court
+# RULES OF CRIMINAL PROCEDURE in the Provincial Court of British Columbia
 
 ---
 
@@ -160,4 +160,4 @@ Rule 12.2. All written judgements should contain and explain the following
 
 ---
 
-**PUBLISHED FEBRUARY 3, 2022**
+**REVISED FEBRUARY 7, 2024**
