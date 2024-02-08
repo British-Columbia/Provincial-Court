@@ -2,17 +2,17 @@
 
 **Rule 1 -** All persons entrusted and certified by the Law Society of British Columbia to practice law shall be attorneys within this canon.
 
-**Rule 2 -** All persons entrusted and certified by the Registrar of the Vancouver Municipal Court to represent persons shall be representatives within this canon.
+**Rule 2 -** All persons entrusted and certified by the Registrar of the Provincial Court of British Columbia to represent persons shall be representatives within this canon.
 
-**Rule 3 -** Only attorneys and representatives are entitled to represent any party or person that consents to their representation in any matter or proceeding before or in the Vancouver Municipal Court.
+**Rule 3 -** Only attorneys and representatives are entitled to represent any party or person that consents to their representation in any matter or proceeding before or in the Provincial Court of British Columbia.
 
-**Rule 4 -** A resident of the City of Vancouver may, upon satisfactory fulfillment of all prerequisites that the Registrar may establish, be issued by the Registrar the status of a representative and be granted the privileges thereof.
+**Rule 4 -** A resident of British Columbia may, upon satisfactory fulfillment of all prerequisites that the Registrar may establish, be issued by the Registrar the status of a representative and be granted the privileges thereof.
 
 **Rule 5 -** The Register may revoke any representative from his status as such and the privileges thereof with the consent of a Judge.
 
 **Rule 6 -** A Judge may direct the Registrar to revoke from any representative the status of such and the privileges thereof.
 
-**Rule 7 -** A Judge may direct the Registrar to issue to any resident of the City of Vancouver the status of a representative and grant the privileges thereof.
+**Rule 7 -** A Judge may direct the Registrar to issue to any resident of British Columbia the status of a representative and grant the privileges thereof.
 
 **Rule 8 -** The judges of the court may, with a majority concurring, direct the Registrar to adopt, amend, or discard any prerequisites to being issued the status of a representative. 
 
