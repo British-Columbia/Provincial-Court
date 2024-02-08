@@ -1,4 +1,4 @@
-# RULES OF EVIDENCE in the Vancouver Municipal Court
+# RULES OF EVIDENCE in the Provincial Court of British Columbia
 
 ---
 
@@ -118,4 +118,4 @@ Rule 10.2. Where with respect to any question a witness objects to answer on the
 
 ---
 
-**PUBLISHED FEBRUARY 3, 2022**
+**REVISED FEBRUARY 7, 2024**
