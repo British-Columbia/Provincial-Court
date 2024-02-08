@@ -1,4 +1,4 @@
-# RULES FOR APPLICATIONS in the Vancouver Municipal Court
+# RULES FOR APPLICATIONS in the Provincial Court of British Columbia
 
 ---
 
@@ -9,12 +9,12 @@
 **Rule 1.1 -** In these rules:
 - **"applicant"** means the person bringing the application;
 - **"application"** means to an application made to to this court on original jurisdiction;
-- **"court"** means the Vancouver Municipal Court Appellate Division;
+- **"court"** means the Provincial Court of British Columbia Appellate Division;
 - **"decision"** includes a determination or order;
 - **"document"** means a photograph, video, recording of sound, any files, and any information recorded or stored by means of any device;
 - **"file"** means file with the registry of the court;
 - **"panel judge"** means a judge sitting in the capacity of the Appellate Division;
-- **"panel"** means a panel of three or more judges of the Municipal Court;
+- **"panel"** means a panel of three or more judges of the Provincial Court of British Columbia;
 - **"party"**, in relation to a proceeding, means the person initiating the proceeding and each respondent who has filed a Notice of Appearance in the proceeding;
 - **"proceeding"** means any application made to the court;
 - **"record of the proceeding"** includes the following:
@@ -213,4 +213,4 @@ the respondent may apply to the court for an order that the application be dismi
 
 ---
 
-**PUBLISHED FEBRUARY 3, 2022**
+**REVISED FEBRUARY 7, 2024**
