@@ -1,4 +1,4 @@
-# CRIMINAL APPEAL RULES in the Vancouver Municipal Court
+# CRIMINAL APPEAL RULES in the Provincial Court of British Columbia
 
 ## Table of Contents
 
@@ -10,14 +10,14 @@
 
 **Rule 1.1 -** In these rules:
 - **"appellant"** means the person bringing the appeal;
-- **"bring an appeal"** means to appeal an order, a judgement, or a decree in a criminal matter from the Vancouver Municipal Court Trial Division to this court on appellate jurisdiction;
+- **"bring an appeal"** means to appeal an order, a judgement, or a decree in a criminal matter from the Provincial Court of British Columbia Trial Division to this court on appellate jurisdiction;
 - **"registrar"** means the registrar of the court;
-- **"court"** means the Vancouver Municipal Court Appellate Division;
+- **"court"** means the Provincial Court of British Columbia Appellate Division;
 - **"document"** means a photograph, video, recording of sound, any files, and any information recorded or stored by means of any device;
 - **"file"** means file with the registry of the court;
 - **"panel judge"** means a judge sitting in the capacity of the Appellate Division;
-- **"panel"** means a panel of three or more judges of the Municipal Court;
-- **"order"** includes an order, a judgment, a decree, and an opinion, advice, direction, determination, decision or declaration that the Municipal Court is authorized to give or make;
+- **"panel"** means a panel of three or more judges of the Provincial Court of British Columbia;
+- **"order"** includes an order, a judgment, a decree, and an opinion, advice, direction, determination, decision or declaration that the Provincial Court of British Columbia is authorized to give or make;
 - **"order under appeal"** means the conviction, acquittal, sentence, finding, determination or other order in respect of which the appeal is brought;
 - **"party"**, in relation to a proceeding, means the person initiating the proceeding and each respondent who has filed a Notice of Appearance in the proceeding;
 - **"proceeding"** means an appeal or a cross appeal;
@@ -33,7 +33,7 @@
 ### Appellate Jurisdiction
 
 **Rule 1.3 -** An appeal lies to the court:
-- **(a)** from an order of the Municipal Court Trial Division or an order of a judge of that court; and
+- **(a)** from an order of the Provincial Court of British Columbia Trial Division or an order of a judge of that court; and
 - **(b)** in any matter where jurisdiction is given to it under a legislative enactment.
 
 ### How Cited
@@ -306,4 +306,4 @@ the respondent may apply to the court or, on an appeal where leave is required, 
 
 ---
 
-**PUBLISHED FEBRUARY 3, 2022**
+**REVISED FEBRUARY 7, 2024**
