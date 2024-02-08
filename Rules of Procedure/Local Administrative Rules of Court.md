@@ -18,13 +18,15 @@ In an extraordinary circumstance, the court may allow the selection as a counsel
 
 ### Court Policy 2022-02
 
-In the Vancouver Municipal, a neutral citation shall be assigned to each case as follows
+In the Provincial Court of British Columbia, a neutral citation shall be assigned to each case as follows
 ```
-Party v. Party 202# MCR #
-                  ^Year ^Number counting up from 1, starting with the first case filed in a given calendar year
+Party v. Party, BCPC #
+                     ^Number counting up from 1
 ```
 
 [Docket numbers discontinued per [Motion #21](https://trello.com/c/7Se4oYVy), rev. May 21, 2023]
+
+[Administrative revision, February 7, 2024]
 
 ### Court Policy 2022-03 
 
@@ -40,7 +42,9 @@ The Appellate Division shall hear cases under its jurisdiction in panels of seve
 
 ### Court Policy 2022-05
 
-Information taken from the [Vancouver Database](https://khizzer123.github.io/vancouver-database/) shall have the same effect as if it were taken from the Queen's Printer and is admissable in all matters before this court.
+~~Information taken from the [Vancouver Database](https://khizzer123.github.io/vancouver-database/) shall have the same effect as if it were taken from the Queen's Printer and is admissable in all matters before this court.~~
+
+[Administrative revision, February 7, 2024]
 
 ### Court Policy 2022-06
 
