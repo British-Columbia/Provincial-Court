@@ -1,4 +1,4 @@
-# RULES OF CIVIL PROCEDURE in the Vancouver Municipal Court
+# RULES OF CIVIL PROCEDURE in the Provincial Court of British Columbia
 
 ---
 
@@ -195,7 +195,7 @@
 - Has been issued an intermittent sentence;
 - Has been ordered to pay restitution;
 - Was placed on bond; or
-- Has been involved in any other proceeding of a criminal nature in the City of Vancouver.
+- Has been involved in any other proceeding of a criminal nature in British Columbia.
 
 **Rule 13.7.** Whereas the applicant is applying to expunge 5 counts or less, the Court may grant the application 48 hours after receiving the applicant's statement, or immediately after such reciept if the Crown indicates no contest of the application.
 
@@ -207,4 +207,4 @@
 
 ---
 
-**REVISED September 29, 2023**
+**REVISED FEBRUARY 7, 2024**
