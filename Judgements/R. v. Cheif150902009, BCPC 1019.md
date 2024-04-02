@@ -45,9 +45,9 @@ The defendant has reached a plea-agreement with the crown, found [here](https://
 
   - For Count 1, (x1), s. 39, the defendant is sentenced to 7 minutes and 30 seconds (450 seconds) in a Correctional Facility, remanded to the custody of the Correctional Service Canada.
 
-  - For Count 2, (x1), s. 79, the defendant is sentenced to 12 minutes and 30 seconds (750 seconds) in a Correctional Facility, remanded to the custody of the Correctional Service Canada.
+  - For Count 2, (x1), s. 79, the defendant is sentenced to 7 minutes and 30 seconds (450 seconds) in a Correctional Facility, remanded to the custody of the Correctional Service Canada.
 
-  - For Count 3, (x1), s. 90, the defendant is sentenced to 20 minutes (1200 seconds) in a Correctional Facility, remanded to the custody of the Correctional Service Canada.
+  - For Count 3, (x1), s. 90, the defendant is sentenced to 15 minutes (900 seconds) in a Correctional Facility, remanded to the custody of the Correctional Service Canada.
 
 Each sentence imposed shall be served concurrently, for a total of 30 minutes (1800 seconds). 
 
