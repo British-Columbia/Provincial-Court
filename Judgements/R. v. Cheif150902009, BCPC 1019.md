@@ -37,7 +37,7 @@ On the 1st of April 2024, the Crown accused the defendant, Cheif150902009, of th
 
 - x1 Count of Careless Use of Firearm (Summary);
 - x1 Count of Criminal Negligence Causing Bodily Harm (Summary); and
-- x1 Count of Assault Causing Bodily Harm (Summary); 
+- x1 Count of Assault Causing Bodily Harm (Summary)
 
 The defendant has reached a plea-agreement with the crown, found [here](https://drive.google.com/file/d/1N7hiOdZ8IiDZ04wak1Kpis5eZSzDInKf/view).
 
