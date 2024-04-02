@@ -53,7 +53,7 @@ Each sentence imposed shall be served concurrently, for a total of 30 minutes (1
 
 **Additional Order**
 
-PUBLIC SAFETY BLACKLIST: Pursuant to the British Columbia Ministry of Justice's Public Safety Directive #002, found [here](https://drive.google.com/file/d/1X-dXC-tQEvrH8HXBNAYhkAy3ijYlqVrJ/view?ths=true), the court orders the British Columbia Ministry of Justice to issue a Class B Public Safety Blacklist for a period of one (1) month, ending 04/01/2024 (MM/DD/YYYY).
+PUBLIC SAFETY BLACKLIST: Pursuant to the British Columbia Ministry of Justice's Public Safety Directive #002, found [here](https://drive.google.com/file/d/1X-dXC-tQEvrH8HXBNAYhkAy3ijYlqVrJ/view?ths=true), the court orders the British Columbia Ministry of Justice to issue a Class B Public Safety Blacklist for a period of one (1) month, ending 05/01/2024 (MM/DD/YYYY).
 
 --- 
 
