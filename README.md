@@ -7,4 +7,4 @@ Electronic court registry for the Provincial Court of British Columbia.
 
 ---
 
-- [Discord invite](https://discord.gg/FmEEFEJWeC)
+- [Discord invite](https://discord.com/invite/5nGUq8m5v4)
