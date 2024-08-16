@@ -4,7 +4,7 @@ Member Lists are regulatory filings required under s. 86 of the Electoral Regula
 
 ### BC Labour
 
-As of 2024-08-16
+As of 2024-08-15
 
 ```
 Antonio_Gamer1567
