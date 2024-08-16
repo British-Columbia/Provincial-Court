@@ -4,7 +4,7 @@ Member Lists are regulatory filings required under s. 86 of the Electoral Regula
 
 ### BC Labour
 
-As of 2024-08-11
+As of 2024-08-16
 
 ```
 Antonio_Gamer1567
@@ -14,7 +14,9 @@ S3aWo1fz
 Dakota_303
 HarveyL22
 iiPennsylvania_Laws
-sithmaster921
+policia3113YT
+Acomnius
+LA_N4V1G4T0R
 ```
 
 ### BC United
