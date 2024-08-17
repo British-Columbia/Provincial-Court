@@ -46,7 +46,17 @@ Ytdominuslightning
 
 ## Conservative Party of British Columbia
 
-As of 2024-08-00
+As of 2024-08-16
 
 ```
+Ontario RBL
+RangeetKumar
+JustPurpIe
+doggythesnoop
+iShaddi
+DefendLaw
+354monkey
+Gmen2861
+tankseb
+sssssgt
 ```
